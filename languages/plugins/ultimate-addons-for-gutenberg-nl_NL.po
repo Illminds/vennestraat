@@ -1,0 +1,950 @@
+# Translation of Plugins - Spectra &#8211; WordPress Gutenberg Blocks - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Spectra &#8211; WordPress Gutenberg Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-01-26 12:41:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Spectra &#8211; WordPress Gutenberg Blocks - Stable (latest release)\n"
+
+#: includes/blocks/modal/block.php:17 dist/blocks.js:17
+msgid "This block allows you to add modal popup."
+msgstr "Met dit blok kun je een modale pop-up toevoegen."
+
+#: includes/blocks/modal/block.php:16 dist/blocks-placeholder.js:26
+#: dist/blocks.js:17
+msgid "Modal"
+msgstr "Modal"
+
+#: includes/blocks/register/block.php:17
+msgid "This block lets you add a user register form."
+msgstr "Met dit blok kun je een gebruikers registratieformulier toevoegen."
+
+#: includes/blocks/register/block.php:16
+msgid "Registration Form"
+msgstr "Registratieformulier"
+
+#: includes/blocks/login/block.php:17
+msgid "This block lets you add a user login form."
+msgstr "Met dit blok kun je een gebruikers login formulier toevoegen."
+
+#: includes/blocks/login/block.php:16
+msgid "Login Form"
+msgstr "Login formulier"
+
+#: includes/blocks/image-gallery/block.php:17 dist/blocks.js:17
+msgid "Create a highly customizable image gallery"
+msgstr "Maak een zeer aanpasbare afbeelding galerij"
+
+#: includes/blocks/image-gallery/block.php:16 dist/blocks-placeholder.js:20
+#: dist/blocks.js:17
+msgid "Image Gallery"
+msgstr "Afbeeldingen galerij"
+
+#: includes/blocks/counter/block.php:17 dist/blocks.js:17
+msgid "This block allows you to add number counter."
+msgstr "Met dit blok kun je een nummer teller toevoegen."
+
+#: includes/blocks/counter/block.php:16 dist/blocks-placeholder.js:14
+#: dist/blocks.js:17
+msgid "Counter"
+msgstr "Teller"
+
+#: includes/blocks/counter/attributes.php:29 dist/blocks.js:1
+msgid "Add Your Title Here…"
+msgstr "Je titel hier toevoegen…"
+
+#: classes/class-uagb-init-blocks.php:633
+msgid ""
+"Use custom class added in block's advanced settings to target your desired block. Examples:\n"
+"\t\t\t\t.my-class {text-align: center;} // my-class is a custom selector"
+msgstr ""
+"Gebruik aangepaste klasse toegevoegd in de geavanceerde instellingen van het blok om je gewenste blok te targeten. Voorbeelden:\n"
+"\t\t\t.my-class {text-align: center;} // my-class is een aangepaste selector"
+
+#: blocks-config/image-gallery/class-spectra-image-gallery.php:1140
+#: dist/blocks.js:17
+msgid "Unable to load image"
+msgstr "Kan afbeelding niet laden"
+
+#: blocks-config/image-gallery/class-spectra-image-gallery.php:409
+#: includes/blocks/image-gallery/attributes.php:118 dist/blocks.js:1
+#: dist/blocks.js:17
+msgid "Load More Images"
+msgstr "Laad meer afbeeldingen"
+
+#: blocks-config/image-gallery/class-spectra-image-gallery.php:178
+#: includes/blocks/image-gallery/attributes.php:56 dist/blocks.js:1
+#: dist/blocks.js:17
+msgid "No Caption"
+msgstr "Geen bijschrift"
+
+#: includes/blocks/how-to/block.php:16 dist/blocks-placeholder.js:18
+#: dist/blocks.js:17
+msgid "How To"
+msgstr "How to"
+
+#: lib/wp-background-processing/class-uagb-wp-background-process.php:426
+msgid "Every %d Minutes"
+msgstr "Elke %d minuten"
+
+#: includes/blocks/forms-upload/block.php:15
+msgid "Add a attachment in your form."
+msgstr "Voeg een bijlage toe in je formulier."
+
+#: includes/blocks/forms-upload/block.php:14
+msgid "Upload"
+msgstr "Upload"
+
+#. translators: %s: PHP version
+#: ultimate-addons-for-gutenberg.php:38
+msgid "Spectra requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "Spectra vereist PHP versie %s+, plugin is momenteel NIET WERKEND."
+
+#: includes/blocks/wp-search/block.php:17 dist/blocks.js:17
+msgid "Add a search widget to let users search posts from your website."
+msgstr "Voeg een zoek widget toe om gebruikers berichten van je site te laten zoeken."
+
+#: includes/blocks/testimonial/block.php:17
+msgid "Display customer testimonials with customizable layouts."
+msgstr "Toon aanbevelingen van klanten met aanpasbare lay-outs."
+
+#: includes/blocks/team/block.php:17 dist/blocks.js:17
+msgid "Showcase your team by displaying info and social media profiles."
+msgstr "Laat je team zien door info en sociale media profielen weer te geven."
+
+#: includes/blocks/taxonomy-list/block.php:17 dist/blocks.js:17
+msgid "Display your content categorized as per post type."
+msgstr "Toon je inhoud gecategoriseerd per berichttype."
+
+#: includes/blocks/tabs/block.php:17 dist/blocks.js:17
+msgid "Display your content under different tabs."
+msgstr "Toon je inhoud onder verschillende tabs."
+
+#: includes/blocks/tabs-child/block.php:15 dist/blocks.js:17
+msgid "Display your content in a tab."
+msgstr "Toon je inhoud in een tab."
+
+#: includes/blocks/table-of-contents/block.php:17 dist/blocks.js:17
+msgid "Add a table of contents to allow page navigation."
+msgstr "Een inhoudsopgave toevoegen om pagina navigatie te toe te staan."
+
+#: includes/blocks/star-rating/block.php:17 dist/blocks.js:17
+msgid "Display customizable star ratings on your page."
+msgstr "Toon aanpasbare sterren waarderingen op je pagina."
+
+#: includes/blocks/social-share/block.php:17
+msgid "Share your content on different social media platforms."
+msgstr "Deel je inhoud op verschillende socialmedia platforms."
+
+#: includes/blocks/social-share-child/block.php:15
+msgid "Share your content on this social media platform."
+msgstr "Deel je inhoud op dit sociale media platform."
+
+#: includes/blocks/section/block.php:17 dist/blocks.js:17
+msgid "Outer wrap section that allows you to add other blocks within it."
+msgstr "Buitenste wrap sectie waarmee je andere blokken erin kunt toevoegen."
+
+#: includes/blocks/section/block.php:16 dist/blocks.js:17
+msgid "Advanced Row"
+msgstr "Geavanceerde rij"
+
+#: includes/blocks/review/block.php:17 dist/blocks.js:17
+msgid "Add reviews to items with Schema support."
+msgstr "Beoordeling toevoegen aan items met schema ondersteuning."
+
+#: includes/blocks/review/block.php:16 dist/blocks-placeholder.js:30
+#: dist/blocks.js:17
+msgid "Review"
+msgstr "Beoordeling"
+
+#: includes/blocks/restaurant-menu/block.php:17 dist/blocks.js:17
+msgid "Create an attractive price list for your products."
+msgstr "Maak een aantrekkelijke prijslijst voor je producten."
+
+#: includes/blocks/restaurant-menu-child/block.php:15 dist/blocks.js:17
+msgid "Add information for this product."
+msgstr "Informatie toevoegen voor dit product."
+
+#: includes/blocks/post-title/block.php:16 dist/blocks.js:17
+msgid "Customize your post title."
+msgstr "Je berichttitel aanpassen."
+
+#: includes/blocks/post-timeline/block.php:17 dist/blocks.js:17
+msgid "Create an attractive timeline to display your posts."
+msgstr "Maak een aantrekkelijke tijdlijn om je berichten weer te geven."
+
+#: includes/blocks/post-taxonomy/block.php:15 dist/blocks.js:17
+msgid "Show your post's under categories."
+msgstr "Toon je berichten onder categorieën."
+
+#: includes/blocks/post-taxonomy/block.php:14 dist/blocks.js:17
+msgid "Post Taxonomy"
+msgstr "Bericht taxonomie"
+
+#: includes/blocks/post-meta/block.php:15 dist/blocks.js:17
+msgid "Show your post meta details."
+msgstr "Toon je bericht meta details."
+
+#: includes/blocks/post-masonry/block.php:17 dist/blocks.js:17
+msgid "Display your posts in a masonary layout."
+msgstr "Toon je berichten in een masonary lay-out."
+
+#: includes/blocks/post-image/block.php:15 dist/blocks.js:17
+msgid "Customize your post image."
+msgstr "Pas je bericht afbeelding aan."
+
+#: includes/blocks/post-grid/block.php:17 dist/blocks.js:17
+msgid "Display your posts in a grid layout."
+msgstr "Toon je berichten in een raster lay-out."
+
+#: includes/blocks/post-excerpt/block.php:16
+msgid "Show your post's excerpt "
+msgstr "Toon samenvatting van je bericht "
+
+#: includes/blocks/post-carousel/block.php:17 dist/blocks.js:17
+msgid "Display your posts in a sliding carousel layout."
+msgstr "Toon je berichten in een dia carrousel lay-out."
+
+#: includes/blocks/post-button/block.php:15 dist/blocks.js:17
+msgid "Customize this post button."
+msgstr "Pas deze bericht knop aan."
+
+#: includes/blocks/masonry-gallery/block.php:14
+msgid "Display your core gallery in a masonary layout."
+msgstr "Toon je core galerij in een masonary lay-out."
+
+#: includes/blocks/marketing-button/block.php:17 dist/blocks.js:17
+msgid "Add a marketing call to action button with a short description."
+msgstr "Toevoegen van een marketing Call To Action knop met een korte beschrijving."
+
+#: includes/blocks/lottie/block.php:17 dist/blocks.js:17
+msgid "Add customizable lottie animation on your page."
+msgstr "Toevoegen aanpasbare Lottie animatie op je pagina."
+
+#: includes/blocks/lottie/block.php:16 dist/blocks-placeholder.js:24
+#: dist/blocks.js:17
+msgid "Lottie Animation"
+msgstr "Lottie animatie"
+
+#: includes/blocks/inline-notice/block.php:17 dist/blocks.js:17
+msgid "Highlight important information using inline notice block."
+msgstr "Markeer belangrijke informatie met behulp van een berichtblok."
+
+#: includes/blocks/info-box/block.php:17
+msgid "Add image/icon, seperator and text description using a single block."
+msgstr "Afbeelding/pictogram, scheidingsteken en tekstbeschrijving toevoegen in een blok."
+
+#: includes/blocks/image/block.php:17 dist/blocks.js:13
+msgid "Add images on your webpage with multiple customization options."
+msgstr "Toevoegen van afbeeldingen op je webpagina met meerdere aanpassingsmogelijkheden."
+
+#: includes/blocks/icon-list/block.php:17 dist/blocks.js:17
+msgid "Create a list highlighted with icons/images."
+msgstr "Maak een lijst met gemarkeerde pictogrammen/afbeeldingen."
+
+#: includes/blocks/icon-list-child/block.php:15 dist/blocks.js:17
+msgid "Add and customize content for this list component."
+msgstr "Inhoud toevoegen en aanpassen voor deze lijstcomponent."
+
+#: includes/blocks/how-to/block.php:17 dist/blocks.js:17
+msgid "Add instructions/steps on processes using how to block."
+msgstr "Instructies/stappen toevoegen over processen met behulp van hoe te blokkeren."
+
+#: includes/blocks/how-to-step/block.php:14 dist/blocks.js:17
+msgid "Add relevant content for this step."
+msgstr "Voeg voor deze stap relevante inhoud toe."
+
+#: includes/blocks/how-to-step/block.php:13 dist/blocks.js:1 dist/blocks.js:17
+msgid "Step"
+msgstr "Stap"
+
+#: includes/blocks/google-map/block.php:17 dist/blocks.js:17
+msgid "Show a Google Map location on your website."
+msgstr "Toon een Google Map locatie op je site."
+
+#: includes/blocks/gf-styler/block.php:17 dist/blocks.js:17
+msgid "Highly customize and style your forms created by Gravity Forms."
+msgstr "Pas je formulieren gemaakt door Gravity Forms aan en stijl ze."
+
+#: includes/blocks/gf-styler/block.php:16 dist/blocks.js:17
+msgid "Gravity Form Designer"
+msgstr "Gravity Form ontwerper"
+
+#: includes/blocks/forms/block.php:17 dist/blocks.js:17
+msgid "Add easily customizable forms to gather information."
+msgstr "Voeg gemakkelijk aanpasbare formulieren toe om informatie te verzamelen."
+
+#: includes/blocks/forms/block.php:16 dist/blocks-placeholder.js:16
+#: dist/blocks.js:17
+msgid "Form"
+msgstr "Formulier"
+
+#: includes/blocks/forms/attributes.php:35 dist/blocks.js:1
+msgid "Spectra Form"
+msgstr "Spectra Form"
+
+#: includes/blocks/forms-url/block.php:16 dist/blocks.js:17
+msgid "Add a URL input field in your form."
+msgstr "Voeg een URL invoerveld toe in je formulier."
+
+#: includes/blocks/forms-toggle/block.php:15 dist/blocks.js:17
+msgid "Add a toggle button in your form."
+msgstr "Een toggle knop toevoegen in je formulier."
+
+#: includes/blocks/forms-textarea/block.php:15
+msgid "Add a text field in your form"
+msgstr "Een tekstveld toevoegen in je formulier"
+
+#: includes/blocks/forms-select/block.php:16 dist/blocks.js:17
+msgid "Add a select dropdown to list choices."
+msgstr "Een selecteer dropdown toevoegen om keuzes op te sommen."
+
+#: includes/blocks/forms-radio/block.php:15 dist/blocks.js:17
+msgid "Add radio select boxes to allow a single choice from options."
+msgstr "Radio selecteer boxen toevoegen om een enkele keuze uit opties toe te staan."
+
+#: includes/blocks/forms-phone/block.php:15
+msgid "Add a phone number field in your form"
+msgstr "Een telefoonnummer veld toevoegen in je formulier"
+
+#: includes/blocks/forms-name/block.php:15
+msgid "Add a name field in your form"
+msgstr "Een naamveld toevoegen in je formulier"
+
+#: includes/blocks/forms-hidden/block.php:15
+msgid "Add a hidden field in your form to pass data"
+msgstr "Een verborgen veld toevoegen in je formulier om gegevens door te geven"
+
+#: includes/blocks/forms-email/block.php:15
+msgid "Add an email address field in your form"
+msgstr "Een e-mailadresveld toevoegen in je formulier"
+
+#: includes/blocks/forms-date/block.php:15 dist/blocks.js:17
+msgid "Add a calendar based date picker in your form."
+msgstr "Voeg een kalender gebaseerde datumkiezer toe in je formulier."
+
+#: includes/blocks/forms-checkbox/block.php:15
+msgid "Add checkboxes to allow mulitple choices from optons."
+msgstr "Selectievakjes toevoegen om meerdere keuzes uit opties toe te staan."
+
+#: includes/blocks/forms-accept/block.php:15 dist/blocks.js:17
+msgid "Add a consent statement with a checkbox in your form."
+msgstr "Voeg een instemmingsverklaring toe met een selektievakje in je formulier."
+
+#: includes/blocks/faq/block.php:17 dist/blocks.js:17
+msgid "Add accordions/FAQ schema to your page."
+msgstr "Accordeons/FAQ schema toevoegen aan je pagina."
+
+#: includes/blocks/faq/block.php:16 dist/blocks-placeholder.js:15
+#: dist/blocks.js:17
+msgid "FAQ"
+msgstr "FAQ"
+
+#: includes/blocks/faq-child/block.php:15
+msgid "Add a frequently asked question/accordian to display information."
+msgstr "Een veelgestelde vraag/accordeon toevoegen om informatie weer te geven."
+
+#: includes/blocks/faq-child/block.php:14 dist/blocks.js:17
+msgid "FAQ Child"
+msgstr "FAQ sub"
+
+#: includes/blocks/content-timeline/block.php:17 dist/blocks.js:13
+msgid "Create a timeline displaying contents of your site."
+msgstr "Maak een tijdlijn met de inhoud van je site."
+
+#: includes/blocks/content-timeline-child/block.php:15
+msgid "Add and customize displaying content of this timeline."
+msgstr "Inhoud van deze tijdlijn toevoegen en aanpassen."
+
+#: includes/blocks/container/block.php:17 dist/blocks.js:11
+msgid "Create beautiful layouts with flexbox powered container block."
+msgstr "Maak prachtige lay-outs met flexbox aangedreven container blok."
+
+#: includes/blocks/container/block.php:16 dist/blocks-placeholder.js:13
+#: dist/blocks.js:11 dist/blocks.js:17
+msgid "Container"
+msgstr "Container"
+
+#: includes/blocks/columns/block.php:17 dist/blocks.js:17
+msgid "Insert a number of columns within a single row."
+msgstr "Voeg een aantal kolommen in binnen een enkele rij."
+
+#: includes/blocks/column/block.php:15
+msgid "Immediate child of Advanced Columns."
+msgstr "Onmiddelijke sub van Advanced Columns."
+
+#: includes/blocks/cf7-styler/block.php:17
+msgid "Highly customize and style your Contact Form 7 forms."
+msgstr "Je Contact Form 7 formulieren in hoge mate aanpassen en stijlen."
+
+#: includes/blocks/cf7-styler/block.php:16 dist/blocks.js:17
+msgid "Contact Form 7 Designer"
+msgstr "Contact Form 7 ontwerper"
+
+#: includes/blocks/call-to-action/block.php:17 dist/blocks.js:13
+msgid "Add a button along with heading and description."
+msgstr "Een knop toevoegen met koptekst en beschrijving."
+
+#: includes/blocks/buttons/block.php:17 dist/blocks.js:13
+msgid "Add multiple buttons to redirect user to different webpages."
+msgstr "Meerdere knoppen toevoegen om de gebruiker naar verschillende webpagina's te leiden."
+
+#: includes/blocks/buttons/block.php:16 dist/blocks-placeholder.js:11
+#: dist/blocks.js:13
+msgid "Buttons"
+msgstr "Knoppen"
+
+#: includes/blocks/buttons-child/block.php:15
+msgid "Customize this button as per your need."
+msgstr "Pas deze knop aan volgens je behoefte."
+
+#: includes/blocks/blockquote/block.php:17 dist/blocks.js:13
+msgid "Display qoutes/quoted texts using blockquote."
+msgstr "Geef quotes/geciteerde teksten weer met block quote."
+
+#: includes/blocks/advanced-heading/block.php:17 dist/blocks.js:11
+msgid "Add heading, sub heading and a separator using one block."
+msgstr "Voeg koptekst, sub koptekst en scheidingsteken toe in een blok."
+
+#: classes/class-uagb-rollback.php:165
+msgid "Spectra <p>Rollback to Previous Version</p>"
+msgstr "Spectra <p>terugdraaien naar vorige versie</p>"
+
+#. translators: %s: html tags
+#: classes/class-uagb-loader.php:431
+msgid "The %1$sSpectra%2$s plugin requires %1$sGutenberg%2$s plugin installed & activated."
+msgstr "De %1$sSpectra%2$s plugin vereist %1$sGutenberg %2$s plugin geïnstalleerd & geactiveerd."
+
+#: classes/class-uagb-admin.php:218
+msgid "Wow! The Spectra has already powered over 5 pages on your website!"
+msgstr "De Spectra heeft al meer dan 5 pagina's op je site!"
+
+#: classes/class-uagb-admin-helper.php:406
+msgid "Filter added through any 3rd Party Theme/Plugin."
+msgstr "Filter toegevoegd via een thema/plugin van derden."
+
+#: classes/class-uagb-admin-helper.php:402
+msgid "Astra Theme"
+msgstr "Astra thema"
+
+#: blocks-config/forms/class-uagb-forms.php:100
+#: blocks-config/forms/class-uagb-forms.php:116
+msgid "Please try logging in again to verify that you are not a robot."
+msgstr "Probeer opnieuw in te loggen om te controleren of je geen robot bent."
+
+#: admin-core/api/common-settings.php:99 classes/class-uagb-rest-api.php:325
+msgid "Sorry, you cannot list resources."
+msgstr "Je kunt geen lijst met bronnen maken."
+
+#: admin-core/ajax/common-settings.php:164
+#: admin-core/ajax/common-settings.php:198
+#: admin-core/ajax/common-settings.php:232
+#: admin-core/ajax/common-settings.php:267
+#: admin-core/ajax/common-settings.php:345
+#: admin-core/ajax/common-settings.php:380
+#: admin-core/ajax/common-settings.php:415
+#: admin-core/ajax/common-settings.php:450
+#: admin-core/ajax/common-settings.php:485
+#: admin-core/ajax/common-settings.php:520
+#: admin-core/ajax/common-settings.php:554
+#: admin-core/ajax/common-settings.php:589
+#: admin-core/ajax/common-settings.php:623
+#: admin-core/ajax/common-settings.php:657
+#: admin-core/ajax/common-settings.php:691
+#: admin-core/ajax/common-settings.php:725
+#: admin-core/ajax/common-settings.php:781
+#: admin-core/ajax/common-settings.php:810
+#: admin-core/ajax/common-settings.php:845
+#: admin-core/ajax/common-settings.php:879
+#: admin-core/ajax/common-settings.php:913
+#: admin-core/ajax/common-settings.php:948
+#: admin-core/ajax/common-settings.php:983
+#: admin-core/ajax/common-settings.php:1024
+#: admin-core/ajax/common-settings.php:1061
+#: admin-core/ajax/common-settings.php:1098
+#: admin-core/ajax/common-settings.php:1136
+#: admin-core/ajax/common-settings.php:1190
+#: admin-core/ajax/common-settings.php:1248
+#: admin-core/ajax/common-settings.php:1283
+#: classes/class-uagb-init-blocks.php:404
+msgid "Successfully saved data!"
+msgstr "Gegevens succesvol opgeslagen!"
+
+#: admin-core/ajax/common-settings.php:157
+#: admin-core/ajax/common-settings.php:191
+#: admin-core/ajax/common-settings.php:225
+#: admin-core/ajax/common-settings.php:260
+#: admin-core/ajax/common-settings.php:338
+#: admin-core/ajax/common-settings.php:373
+#: admin-core/ajax/common-settings.php:408
+#: admin-core/ajax/common-settings.php:443
+#: admin-core/ajax/common-settings.php:478
+#: admin-core/ajax/common-settings.php:513
+#: admin-core/ajax/common-settings.php:547
+#: admin-core/ajax/common-settings.php:581
+#: admin-core/ajax/common-settings.php:616
+#: admin-core/ajax/common-settings.php:650
+#: admin-core/ajax/common-settings.php:684
+#: admin-core/ajax/common-settings.php:718
+#: admin-core/ajax/common-settings.php:752
+#: admin-core/ajax/common-settings.php:838
+#: admin-core/ajax/common-settings.php:872
+#: admin-core/ajax/common-settings.php:906
+#: admin-core/ajax/common-settings.php:941
+#: admin-core/ajax/common-settings.php:976
+#: admin-core/ajax/common-settings.php:1011
+#: admin-core/ajax/common-settings.php:1051
+#: admin-core/ajax/common-settings.php:1088
+#: admin-core/ajax/common-settings.php:1125
+#: admin-core/ajax/common-settings.php:1163
+#: admin-core/ajax/common-settings.php:1241
+#: admin-core/ajax/common-settings.php:1276
+msgid "No post data found!"
+msgstr "Geen berichtgegevens gevonden!"
+
+#: admin-core/ajax/ajax-errors.php:61
+msgid "Sorry, something went wrong."
+msgstr "Er ging iets mis."
+
+#: admin-core/ajax/ajax-errors.php:60
+msgid "Nonce validation failed"
+msgstr "Nonce validatie mislukt"
+
+#: admin-core/ajax/ajax-errors.php:59
+msgid "Sorry, you are not allowed to do this operation."
+msgstr "Je hebt geen toestemming om deze operatie te doen."
+
+#. Plugin Name of the plugin
+#: admin-core/inc/admin-menu.php:224 classes/class-uagb-admin-helper.php:394
+#: classes/class-uagb-init-blocks.php:441
+msgid "Spectra"
+msgstr "Spectra"
+
+#: lib/class-uagb-ast-block-templates.php:65
+#: lib/gutenberg-templates/classes/class-ast-block-templates.php:404
+msgid "Template Kits"
+msgstr "Template kits"
+
+#: includes/blocks/star-rating/block.php:16 dist/blocks-placeholder.js:32
+#: dist/blocks.js:17
+msgid "Star Ratings"
+msgstr "Ster beoordelingen"
+
+#: includes/blocks/masonry-gallery/block.php:13
+#: admin-core/assets/build/dashboard-app.js:1 dist/blocks.js:17
+msgid "Masonry Gallery"
+msgstr "Masonry galerij"
+
+#: includes/blocks/forms-accept/block.php:14 dist/blocks.js:17
+msgid "Accept"
+msgstr "Accepteren"
+
+#: includes/blocks/forms-date/block.php:14 dist/blocks.js:17
+msgid "Datepicker"
+msgstr "Datumkiezer"
+
+#: includes/blocks/forms-toggle/block.php:14 dist/blocks.js:1 dist/blocks.js:17
+msgid "Toggle"
+msgstr "Toggle"
+
+#: includes/blocks/forms-select/block.php:15 dist/blocks.js:17
+msgid "Select"
+msgstr "Selecteer"
+
+#: includes/blocks/forms-radio/block.php:14 dist/blocks.js:17
+msgid "Radio"
+msgstr "Radio"
+
+#: includes/blocks/forms-checkbox/block.php:14 dist/blocks.js:17
+msgid "Checkbox"
+msgstr "Selectievak"
+
+#: includes/blocks/forms-textarea/block.php:14 dist/blocks.js:17
+msgid "Textarea"
+msgstr "Tekstgebied"
+
+#: includes/blocks/forms-phone/block.php:14 dist/blocks.js:17
+msgid "Phone"
+msgstr "Telefoon"
+
+#: includes/blocks/forms-hidden/block.php:14 dist/blocks.js:11
+#: dist/blocks.js:17
+msgid "Hidden"
+msgstr "Verborgen"
+
+#: includes/blocks/forms/attributes.php:168 dist/blocks.js:1 dist/blocks.js:17
+msgid "Please fill up the above captcha."
+msgstr "Gelieve bovenstaande captcha in te vullen."
+
+#: includes/blocks/forms/attributes.php:121 dist/blocks.js:1 dist/blocks.js:17
+msgid "There has been some error while submitting the form. Please verify all form fields again."
+msgstr "Er waren wat fouten bij het verzenden van het formulier. Controleer nogmaals alle formuliervelden."
+
+#: includes/blocks/forms/attributes.php:69 dist/blocks.js:1 dist/blocks.js:17
+msgid "Form Submission"
+msgstr "Fomulier verzending"
+
+#: includes/blocks/forms/attributes.php:40
+msgid "The form has been submitted Successfully!"
+msgstr "Het formulier is met succes verzonden!"
+
+#: includes/blocks/forms/attributes.php:34 dist/blocks.js:1 dist/blocks.js:17
+msgid "Submit"
+msgstr "Verzenden"
+
+#: includes/blocks/tabs-child/block.php:14 dist/blocks.js:17
+msgid "Tabs child"
+msgstr "Tabs sub"
+
+#: includes/blocks/tabs/block.php:16 dist/blocks-placeholder.js:34
+#: dist/blocks.js:17
+msgid "Tabs"
+msgstr "Tabs"
+
+#: includes/blocks/post-image/block.php:14 dist/blocks.js:17
+msgid "Post Image"
+msgstr "Bericht afbeelding"
+
+#: includes/blocks/post-meta/block.php:14 dist/blocks.js:17
+msgid "Post Meta"
+msgstr "Bericht meta"
+
+#: includes/blocks/post-excerpt/block.php:15 dist/blocks.js:17
+msgid "Post Excerpt"
+msgstr "Bericht samenvatting"
+
+#: includes/blocks/post-button/block.php:14 dist/blocks.js:17
+msgid "Post Button"
+msgstr "Bericht knop"
+
+#: includes/blocks/post-title/block.php:15 dist/blocks.js:17
+msgid "Post Title"
+msgstr "Bericht titel"
+
+#: includes/blocks/content-timeline-child/block.php:14 dist/blocks.js:13
+msgid "Content Timeline Child"
+msgstr "Inhoud sub tijdlijn"
+
+#: classes/class-uagb-admin.php:114
+msgid "Error occurred, The version selected is invalid. Try selecting different version."
+msgstr "Er is een fout opgetreden. De geselecteerde versie is ongeldig. Probeer een andere versie te selecteren."
+
+#: classes/class-uagb-admin.php:101 classes/class-uagb-admin.php:132
+#: admin-core/assets/build/dashboard-app.js:1
+msgid "Rollback to Previous Version"
+msgstr "Terugdraaien naar vorige versie"
+
+#: classes/class-uagb-admin.php:100
+msgid "You do not have permission to access this page."
+msgstr "Je hebt geen rechten om deze pagina te bekijken."
+
+#: includes/blocks/restaurant-menu-child/block.php:14 dist/blocks.js:17
+msgid "Price List-Child"
+msgstr "Prijslijst sub"
+
+#. translators: %s Product title
+#: admin/bsf-analytics/class-bsf-analytics.php:410
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr "Sta %s producten toe om niet-gevoelige gebruiksgegevens bij te houden."
+
+#: includes/blocks/taxonomy-list/block.php:16 dist/blocks-placeholder.js:35
+#: dist/blocks.js:17
+msgid "Taxonomy List"
+msgstr "Taxonomie lijst"
+
+#: blocks-config/taxonomy-list/class-uagb-taxonomy-list.php:125
+#: includes/blocks/taxonomy-list/attributes.php:92
+msgid "Taxonomy Not Available."
+msgstr "Taxonomie niet beschikbaar."
+
+#: includes/blocks/wp-search/block.php:16 dist/blocks.js:17
+msgid "Search"
+msgstr "Zoeken"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:418
+msgid "Learn More."
+msgstr "Leer meer."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:413
+msgid " This will be applicable for all sites from the network."
+msgstr " Dit geldt voor alle sites van het netwerk."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:366
+msgid "Usage Tracking"
+msgstr "Gebruik bijhouden"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+msgid "No Thanks"
+msgstr "Nee, dank je wel"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:251
+msgid "Yes! Allow it"
+msgstr "Ja! Sta het toe"
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:243
+msgid " Know More."
+msgstr " Meer weten."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:219
+msgid "This will be applicable for all sites from the network."
+msgstr "Dit geldt voor alle sites van het netwerk."
+
+#. translators: %s product name
+#: admin/bsf-analytics/class-bsf-analytics.php:216
+msgid "Want to help make <strong>%1s</strong> even more awesome? Allow us to collect non-sensitive diagnostic data and usage information. "
+msgstr "Wil je helpen om <strong>%1s</strong> nog leuker te maken? Sta ons toe om niet-gevoelige diagnostische gegevens en gebruiksinformatie te verzamelen. "
+
+#: includes/blocks/inline-notice/block.php:16 dist/blocks-placeholder.js:23
+#: dist/blocks.js:17
+msgid "Inline Notice"
+msgstr "Inline bericht"
+
+#: includes/blocks/social-share-child/block.php:14 dist/blocks.js:17
+msgid "Social Share Child"
+msgstr "Sociaal delen sub"
+
+#: blocks-config/table-of-content/class-uagb-table-of-content.php:637
+#: blocks-config/table-of-content/class-uagb-table-of-content.php:641
+#: includes/blocks/table-of-contents/attributes.php:18
+#: dist/blocks-placeholder.js:33 dist/blocks.js:1 dist/blocks.js:17
+msgid "Table Of Contents"
+msgstr "Inhoudsopgave"
+
+#: includes/blocks/forms-email/block.php:14 dist/blocks.js:1 dist/blocks.js:17
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/blocks/forms-url/block.php:15 dist/blocks.js:1 dist/blocks.js:13
+#: dist/blocks.js:17
+msgid "URL"
+msgstr "URL"
+
+#: includes/blocks/forms-name/block.php:14 dist/blocks.js:1 dist/blocks.js:17
+msgid "Name"
+msgstr "Naam"
+
+#: includes/blocks/icon-list-child/block.php:14 dist/blocks.js:13
+#: dist/blocks.js:17
+msgid "Icon"
+msgstr "Pictogram"
+
+#: admin-core/inc/admin-menu.php:93 admin-core/assets/build/dashboard-app.js:1
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/blocks/buttons-child/block.php:14 dist/blocks.js:13
+#: dist/blocks.js:17
+msgid "Button"
+msgstr "Knop"
+
+#: includes/blocks/image/block.php:16 dist/blocks-placeholder.js:21
+#: dist/blocks.js:11 dist/blocks.js:13 dist/blocks.js:17
+msgid "Image"
+msgstr "Afbeelding"
+
+#: classes/class-uagb-init-blocks.php:563 dist/blocks.js:11 dist/blocks.js:13
+#: dist/blocks.js:17
+msgid "Default"
+msgstr "Standaard"
+
+#: classes/class-uagb-init-blocks.php:663 dist/blocks.js:11 dist/blocks.js:13
+#: dist/blocks.js:17
+msgid "None"
+msgstr "Geen"
+
+#: includes/blocks/advanced-heading/block.php:16 dist/blocks-placeholder.js:9
+#: dist/blocks.js:11 dist/blocks.js:13 dist/blocks.js:17
+msgid "Heading"
+msgstr "Koptekst"
+
+#: blocks-config/table-of-content/class-uagb-table-of-content.php:925
+#: includes/blocks/table-of-contents/attributes.php:19 dist/blocks.js:1
+#: dist/blocks.js:17
+msgid "Add a header to begin generating the table of contents"
+msgstr "Voeg een header toe om te beginnen met het genereren van de inhoudsopgave"
+
+#: lib/astra-notices/class-astra-notices.php:119
+msgid "WordPress Nonce not validated."
+msgstr "WordPress nonce niet gevalideerd."
+
+#: includes/blocks/table-of-contents/block.php:16
+msgid "Table of Contents"
+msgstr "Inhoudsopgave"
+
+#: classes/class-uagb-init-blocks.php:739
+msgid "You have not added any Gravity Forms yet."
+msgstr "Je hebt nog geen Gravity Forms toegevoegd."
+
+#: classes/class-uagb-admin.php:219
+msgid "Would you please mind sharing your views and give it a 5 star rating on the WordPress repository?"
+msgstr "Zou je je meningen willen delen en het een 5 sterren waardering geven in de WordPress repository?"
+
+#: classes/class-uagb-init-blocks.php:382
+msgid "Please select a valid Gravity Form."
+msgstr "Selecteer een geldig Gravity formulier."
+
+#: includes/blocks/marketing-button/block.php:16 dist/blocks-placeholder.js:25
+#: dist/blocks.js:17
+msgid "Marketing Button"
+msgstr "Marketing knop"
+
+#: classes/class-uagb-init-blocks.php:424
+msgid "Please select a valid Contact Form 7."
+msgstr "Selecteer een geldig contactformulier 7."
+
+#: classes/class-uagb-init-blocks.php:706
+msgid "You have not added any Contact Form 7 yet."
+msgstr "Je hebt nog geen Contact Form 7 toegevoegd."
+
+#: classes/class-uagb-init-blocks.php:692
+#: classes/class-uagb-init-blocks.php:725 dist/blocks.js:17
+msgid "Select Form"
+msgstr "Selecteer formulier"
+
+#: classes/class-uagb-helper.php:409 dist/blocks.js:17
+msgid "Full"
+msgstr "Volledig"
+
+#: includes/blocks/blockquote/block.php:16 dist/blocks-placeholder.js:10
+#: dist/blocks.js:13
+msgid "Blockquote"
+msgstr "Blockquote"
+
+#. translators: %s: html tags
+#: classes/class-uagb-admin.php:243
+msgid "Spectra requires&nbsp;%3$sBlock Editor%4$s. You can change your editor settings to Block Editor from&nbsp;%1$shere%2$s. Plugin is currently NOT RUNNING."
+msgstr "Spectra vereist&nbsp;%3$sblok-editor%4$s. Je kan jouw editor instellingen wijzigen naar blok-editor&nbsp;%1$shier%2$s. Plugin wordt momenteel NIET UITGEVOERD."
+
+#: admin-core/ajax/common-settings.php:130
+msgid "Plugin Successfully Activated"
+msgstr "Plugin succesvol geactiveerd"
+
+#. translators: %s: WordPress version
+#: ultimate-addons-for-gutenberg.php:55
+msgid "Spectra requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr "Spectra vereist WordPress versie %s+. Omdat je een oudere versie gebruikt, werkt de plugin OP DIT MOMENT NIET."
+
+#: includes/blocks/restaurant-menu/block.php:16 dist/blocks-placeholder.js:29
+#: dist/blocks.js:17
+msgid "Price List"
+msgstr "Prijslijst"
+
+#: includes/blocks/column/block.php:14 dist/blocks.js:11 dist/blocks.js:17
+msgid "Column"
+msgstr "Kolom"
+
+#: includes/blocks/columns/block.php:16 dist/blocks.js:17
+msgid "Advanced Columns"
+msgstr "Geavanceerde kolommen"
+
+#: classes/class-uagb-admin.php:224
+msgid "I already did"
+msgstr "Heb ik al gedaan"
+
+#: classes/class-uagb-admin.php:223
+msgid "Nope, maybe later"
+msgstr "Nee, misschien later"
+
+#: classes/class-uagb-admin.php:221
+msgid "Ok, you deserve it"
+msgstr "Ok, je hebt het verdiend"
+
+#: includes/blocks/call-to-action/block.php:16 dist/blocks-placeholder.js:12
+#: dist/blocks.js:1 dist/blocks.js:13 dist/blocks.js:17
+msgid "Call To Action"
+msgstr "Call To Action"
+
+#: includes/blocks/post-masonry/block.php:16 dist/blocks.js:17
+msgid "Post Masonry"
+msgstr "Berichten masonry"
+
+#: includes/blocks/post-carousel/block.php:16 dist/blocks-placeholder.js:27
+#: dist/blocks.js:17
+msgid "Post Carousel"
+msgstr "Bericht carrousel"
+
+#: includes/blocks/post-timeline/block.php:16 dist/blocks-placeholder.js:39
+#: dist/blocks.js:17
+msgid "Post Timeline"
+msgstr "Berichten tijdlijn"
+
+#: blocks-config/post-timeline/class-uagb-post-timeline.php:885
+msgid "No posts found"
+msgstr "Geen berichten gevonden"
+
+#. Description of the plugin
+msgid "The Spectra extends the Gutenberg functionality with several unique and feature-rich blocks that help build websites faster."
+msgstr "Spectra breidt de Gutenberg functionaliteit uit met verschillende unieke en functierijke blokken die helpen bij het sneller bouwen van sites."
+
+#: includes/blocks/testimonial/block.php:16 dist/blocks-placeholder.js:37
+#: dist/blocks.js:17
+msgid "Testimonials"
+msgstr "Aanbevelingen"
+
+#: includes/blocks/icon-list/attributes.php:19
+msgid "Label #1"
+msgstr "Label #1"
+
+#: includes/blocks/icon-list/block.php:16 dist/blocks-placeholder.js:19
+#: dist/blocks.js:17
+msgid "Icon List"
+msgstr "Pictogram lijst"
+
+#: includes/blocks/team/block.php:16 dist/blocks-placeholder.js:36
+#: dist/blocks.js:17
+msgid "Team"
+msgstr "Team"
+
+#: includes/blocks/social-share/block.php:16 dist/blocks-placeholder.js:31
+#: dist/blocks.js:17
+msgid "Social Share"
+msgstr "Sociaal delen"
+
+#: includes/blocks/content-timeline/block.php:16 dist/blocks-placeholder.js:38
+#: dist/blocks.js:13
+msgid "Content Timeline"
+msgstr "Inhoud tijdlijn"
+
+#: includes/blocks/post-grid/block.php:16 dist/blocks-placeholder.js:28
+#: dist/blocks.js:17
+msgid "Post Grid"
+msgstr "Bericht raster"
+
+#: blocks-config/post-timeline/class-uagb-post-timeline.php:523
+#: blocks-config/post/class-uagb-post.php:540
+#: blocks-config/post/class-uagb-post.php:2066
+#: includes/blocks/post-carousel/attributes.php:116
+#: includes/blocks/post-grid/attributes.php:107
+#: includes/blocks/post-masonry/attributes.php:110 dist/blocks.js:1
+#: dist/blocks.js:13 dist/blocks.js:17
+msgid "Read More"
+msgstr "Lees meer"
+
+#: includes/blocks/google-map/block.php:16 dist/blocks-placeholder.js:17
+#: dist/blocks.js:17
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: includes/blocks/info-box/block.php:16 dist/blocks-placeholder.js:22
+#: dist/blocks.js:1 dist/blocks.js:13
+msgid "Info Box"
+msgstr "Informatie box"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.brainstormforce.com"
+msgstr "https://www.brainstormforce.com"
+
+#. Author of the plugin
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#: classes/class-uagb-loader.php:434
+msgid "Install Gutenberg"
+msgstr "Installeer Gutenberg"

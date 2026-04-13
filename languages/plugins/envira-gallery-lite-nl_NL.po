@@ -1,0 +1,1591 @@
+# Translation of Plugins - Gallery Plugin for WordPress &#8211; Envira Photo Gallery - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Gallery Plugin for WordPress &#8211; Envira Photo Gallery - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-05 11:03:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Gallery Plugin for WordPress &#8211; Envira Photo Gallery - Stable (latest release)\n"
+
+#: includes/admin/settings.php:332
+msgid "Save"
+msgstr "Opslaan"
+
+#: includes/admin/settings.php:326
+msgid "Users that have at least one of these roles will be able to edit other's galleries."
+msgstr "Gebruikers die minstens één van deze rollen hebben, kunnen galerijen van anderen bewerken."
+
+#: includes/admin/settings.php:322
+msgid "Edit Other's Galleries"
+msgstr "Galerijen van anderen bewerken"
+
+#: includes/admin/settings.php:317
+msgid "Users that have at least one of these roles will be able to delete galleries."
+msgstr "Gebruikers die minstens één van deze rollen hebben, kunnen galerijen verwijderen."
+
+#: includes/admin/settings.php:308
+msgid "Users that have at least one of these roles will be able to edit/update galleries."
+msgstr "Gebruikers die minstens één van deze rollen hebben, kunnen galerijen bewerken/updaten."
+
+#: includes/admin/settings.php:299
+msgid "Users that have at least one of these roles will be able to create galleries."
+msgstr "Gebruikers die minstens één van deze rollen hebben, kunnen galerijen maken."
+
+#: includes/admin/settings.php:266
+msgid "Permissions updated successfully!"
+msgstr "Machtigingen succesvol geüpdatet!"
+
+#: includes/admin/settings.php:252
+msgid "The nonce field is invalid."
+msgstr "Het nonce veld is ongeldig."
+
+#: includes/admin/settings.php:80
+msgid "Permissions"
+msgstr "Rechten"
+
+#: includes/admin/settings.php:79
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/admin/permissions.php:70
+msgid "Edit Others Galleries"
+msgstr "Bewerk galerijen van anderen"
+
+#: includes/admin/permissions.php:69 includes/admin/settings.php:313
+msgid "Delete Galleries"
+msgstr "Galerijen verwijderen"
+
+#: includes/admin/permissions.php:68 includes/admin/settings.php:304
+msgid "Edit Galleries"
+msgstr "Galerijen bewerken"
+
+#: includes/admin/permissions.php:67 includes/admin/settings.php:295
+msgid "Create Galleries"
+msgstr "Galerijen aanmaken"
+
+#: includes/admin/metaboxes.php:1227
+msgid "Animations"
+msgstr "Animaties"
+
+#: includes/admin/ajax.php:157 includes/admin/ajax.php:246
+#: includes/admin/ajax.php:342 includes/admin/ajax.php:403
+#: includes/admin/ajax.php:497 includes/admin/ajax.php:1004
+msgid "Invalid Post ID."
+msgstr "Ongeldig bericht ID."
+
+#: includes/admin/ajax.php:819 includes/admin/ajax.php:851
+msgid "You are not allowed to dismiss notices."
+msgstr "Je hebt geen toestemming om berichten te negeren."
+
+#: includes/admin/ajax.php:732 includes/admin/ajax.php:1096
+msgid "You are not allowed to deactivate plugins."
+msgstr "Je hebt geen toestemming om plugins te deactiveren."
+
+#: includes/admin/ajax.php:703 includes/admin/ajax.php:1065
+msgid "You are not allowed to activate plugins."
+msgstr "Je hebt geen toestemming om plugins te activeren."
+
+#: includes/admin/ajax.php:23 includes/admin/ajax.php:59
+#: includes/admin/ajax.php:86 includes/admin/ajax.php:161
+#: includes/admin/ajax.php:250 includes/admin/ajax.php:290
+#: includes/admin/ajax.php:346 includes/admin/ajax.php:407
+#: includes/admin/ajax.php:501 includes/admin/ajax.php:580
+#: includes/admin/ajax.php:615 includes/admin/ajax.php:872
+#: includes/admin/ajax.php:900 includes/admin/ajax.php:1008
+msgid "You are not allowed to edit galleries."
+msgstr "Je hebt geen toestemming om galerijen te bewerken."
+
+#: includes/admin/welcome.php:642
+msgid "Creating your first gallery"
+msgstr "Je eerste galerij maken"
+
+#: includes/admin/welcome.php:602
+msgid "Yup, we know a thing or two about building awesome products that customers love."
+msgstr "Ja, we weten het een en ander over het bouwen van geweldige producten waar klanten van houden."
+
+#: includes/admin/welcome.php:601
+msgid "Envira Gallery is brought to you by the same team that’s behind the largest WordPress resource site, WPBeginner, the most popular lead-generation software, OptinMonster, the best WordPress analytics plugin, MonsterInsights, and more!"
+msgstr "Envira Gallery word je aangeboden door hetzelfde team dat achter de grootste gegevensbron site voor WordPress, WPBeginner, de populairste software voor lead generatie, OptinMonster, de beste plugin voor WordPress analytics, MonsterInsights, en nog veel meer zit!"
+
+#: includes/admin/welcome.php:600
+msgid "Our goal is to provide the easiest way to create beautiful galleries."
+msgstr "Ons doel is om de eenvoudigste manier te bieden om prachtige galerijen te maken."
+
+#: includes/admin/welcome.php:599
+msgid "Over the years, we found that most WordPress gallery plugins were bloated, buggy, slow, and very hard to use. So, we started with a simple goal: build a WordPress gallery system that’s both easy and powerful."
+msgstr "In de loop der jaren ontdekten we dat de meeste WordPress galerij plugins opgeblazen, buggy, traag en erg moeilijk te gebruiken waren. Dus begonnen we met een eenvoudig doel: een WordPress galerij systeem bouwen dat zowel eenvoudig als krachtig is."
+
+#: includes/admin/welcome.php:598
+msgid "Hello and welcome to Envira Gallery, the most beginner-friendly WordPress Gallery Plugin. At Envira Gallery, we build software that helps you create beautiful galleries in minutes."
+msgstr "Hallo en welkom bij Envira Gallery, de beginnersvriendelijke WordPress galerij plugin. Bij Envira Gallery maken we software waarmee je binnen een paar minuten prachtige galerijen kunt maken."
+
+#: includes/admin/welcome.php:480 includes/admin/welcome.php:481
+#: includes/admin/welcome.php:554
+msgid "Getting Started"
+msgstr "Aan de slag gaan"
+
+#: includes/admin/welcome.php:471 includes/admin/welcome.php:472
+#: includes/admin/welcome.php:531
+msgid "About Us"
+msgstr "Over ons"
+
+#: includes/admin/welcome.php:446
+msgid "The best WordPress slider plugin. Drag & Drop responsive slider builder that helps you create a beautiful image slideshows with just a few clicks."
+msgstr "De beste WordPress slider plugin. Drag & drop responsive slider bouwer die je helpt om een prachtige afbeelding slideshows te maken met slechts een paar klikken."
+
+#: includes/admin/welcome.php:445
+msgid "Slider by Soliloquy – Responsive Image Slider for WordPress"
+msgstr "Slider van Soliloquy - responsive afbeelding slider voor WordPress"
+
+#: includes/admin/welcome.php:438
+msgid "Leading WordPress backup & site migration plugin. Over 1,500,000+ smart website owners use Duplicator to make reliable and secure WordPress backups to protect their websites. It also makes website migration really easy."
+msgstr "Toonaangevende WordPress back-up & site migratie plugin. Meer dan 1.500.000+ slimme site-eigenaren gebruiken Duplicator om betrouwbare en veilige WordPress back-ups te maken om hun sites te beschermen. Het maakt ook site migratie echt gemakkelijk."
+
+#: includes/admin/welcome.php:437
+msgid "Duplicator"
+msgstr "Duplicator"
+
+#: includes/admin/welcome.php:430
+msgid "Future proof your WordPress customizations with the most popular code snippet management plugin for WordPress. Trusted by over 1,500,000+ websites for easily adding code to WordPress right from the admin area."
+msgstr "Toekomst bestendig maken van je WordPress aanpassingen met de populairste code snippet management plugin voor WordPress. Vertrouwd door meer dan 1.500.000+ sites voor het eenvoudig toevoegen van code aan WordPress direct vanuit het beheerder ruimte."
+
+#: includes/admin/welcome.php:429
+msgid "WPCode"
+msgstr "WPCode"
+
+#: includes/admin/welcome.php:422
+msgid "Top-rated WordPress donation and fundraising plugin. Over 10,000+ non-profit organizations and website owners use Charitable to create fundraising campaigns and raise more money online."
+msgstr "Hoogst gewaardeerde plugin voor donaties en fondsenwerving voor WordPress. Meer dan 10.000 non-profitorganisaties en site eigenaren gebruiken Charitable om fondsenwervingscampagnes op te zetten en online meer geld in te zamelen."
+
+#: includes/admin/welcome.php:421
+msgid "WP Charitable"
+msgstr "WP Charitable"
+
+#: includes/admin/welcome.php:413
+msgid "Sugar Calendar Pro"
+msgstr "Sugar Calendar Pro"
+
+#: includes/admin/welcome.php:406 includes/admin/welcome.php:414
+msgid "A simple & powerful event calendar plugin for WordPress that comes with all the event management features including payments, scheduling, timezones, ticketing, recurring events, and more."
+msgstr "Een eenvoudige & krachtige evenementenkalender plugin voor WordPress die wordt geleverd met alle functies voor evenementenbeheer, waaronder betalingen, planning, tijdzones, ticketing, terugkerende evenementen en meer."
+
+#: includes/admin/welcome.php:405
+msgid "Sugar Calendar"
+msgstr "Sugar Calendar"
+
+#: includes/admin/welcome.php:397
+msgid "The best WordPress eCommerce plugin for selling digital downloads. Start selling eBooks, software, music, digital art, and more within minutes. Accept payments, manage subscriptions, advanced access control, and more."
+msgstr "De beste WordPress eCommerce plugin voor het verkopen van digitale downloads. Begin binnen enkele minuten met de verkoop van eBooks, software, muziek, digitale kunst en meer. Accepteer betalingen, beheerder abonnementen, geavanceerd toegangs beheerder en meer."
+
+#: includes/admin/welcome.php:396
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: includes/admin/welcome.php:387
+msgid "WP Simple Pay Pro"
+msgstr "WP Simple Pay Pro"
+
+#: includes/admin/welcome.php:380 includes/admin/welcome.php:388
+msgid "The #1 Stripe payments plugin for WordPress. Start accepting one-time and recurring payments on your WordPress site without setting up a shopping cart. No code required."
+msgstr "De #1 Stripe betaal plugin voor WordPress. Begin met het accepteren van eenmalige en terugkerende betalingen op je WordPress site zonder een winkelwagen in te stellen. Geen code nodig."
+
+#: includes/admin/welcome.php:379
+msgid "WP Simple Pay"
+msgstr "WP Simple Pay"
+
+#: includes/admin/welcome.php:372
+msgid "The #1 affiliate management plugin for WordPress. Easily create an affiliate program for your eCommerce store or membership site within minutes and start growing your sales with the power of referral marketing."
+msgstr "De #1 affiliate management plugin voor WordPress. Maak eenvoudig binnen enkele minuten een affiliate programma voor je eCommerce winkel of ledensite en begin met het laten groeien van je verkoop met de kracht van verwijzingsmarketing."
+
+#: includes/admin/welcome.php:371
+msgid "AffiliateWP"
+msgstr "AffiliateWP"
+
+#: includes/admin/welcome.php:364
+msgid "The most advanced WordPress search plugin. Customize your WordPress search algorithm, reorder search results, track search metrics, and everything you need to leverage search to grow your business."
+msgstr "De meest geavanceerde WordPress zoek plugin. Pas je WordPress zoek algoritme aan, herschik zoekresultaten, volg zoekstatistieken en alles wat je nodig hebt om zoekopdrachten te gebruiken om je bedrijf te laten groeien."
+
+#: includes/admin/welcome.php:363
+msgid "SearchWP"
+msgstr "SearchWP"
+
+#: includes/admin/welcome.php:356
+msgid "Boost your sales and conversions by up to 15% with real-time social proof notifications. TrustPulse helps you show live user activity and purchases to help convince other users to purchase."
+msgstr "Verhoog je omzet en conversies tot wel 15% met realtime sociale proef meldingen. TrustPulse helpt je om live gebruikersactiviteit en aankopen weer te geven om andere gebruikers te overtuigen om te kopen."
+
+#: includes/admin/welcome.php:355
+msgid "TrustPulse"
+msgstr "TrustPulse"
+
+#: includes/admin/welcome.php:347
+msgid "Smash Balloon Twitter Feeds Pro"
+msgstr "Smash Balloon Twitter Feeds Pro"
+
+#: includes/admin/welcome.php:340 includes/admin/welcome.php:348
+msgid "Easily display Twitter content in WordPress without writing any code. Comes with multiple layouts, ability to combine multiple Twitter feeds, Twitter card support, tweet moderation, and more."
+msgstr "Geef eenvoudig Twitter inhoud weer in WordPress zonder code te hoeven schrijven. Komt met verschillende lay-outs, mogelijkheid om verschillende Twitter feeds te combineren, Twitter card ondersteuning, tweet moderatie en meer."
+
+#: includes/admin/welcome.php:339
+msgid "Smash Balloon Twitter Feeds"
+msgstr "Smash Balloon Twitter Feeds"
+
+#: includes/admin/welcome.php:331
+msgid "Smash Balloon YouTube Feeds Pro"
+msgstr "Smash Balloon YouTube Feeds Pro"
+
+#: includes/admin/welcome.php:324 includes/admin/welcome.php:332
+msgid "Easily display YouTube videos on your WordPress site without writing any code. Comes with multiple layouts, ability to embed live streams, video filtering, ability to combine multiple channel videos, and more."
+msgstr "Geef eenvoudig YouTube video's op je WordPress site weer zonder code te hoeven schrijven. Komt met verschillende lay-outs, insluit rechten voor live streams, video filtering, mogelijkheid om de kanaal video's van verschillende kanalen te combineren en veel meer."
+
+#: includes/admin/welcome.php:323
+msgid "Smash Balloon YouTube Feeds"
+msgstr "Smash Balloon YouTube Feeds"
+
+#: includes/admin/welcome.php:315
+msgid "Smash Balloon Facebook Feeds Pro"
+msgstr "Smash Balloon Facebook Feeds Pro"
+
+#: includes/admin/welcome.php:308 includes/admin/welcome.php:316
+msgid "Easily display Facebook content on your WordPress site without writing any code. Comes with multiple templates, ability to embed albums, group content, reviews, live videos, comments, and reactions."
+msgstr "Toon gemakkelijk Facebook inhoud op je WordPress site zonder enige code te hoeven schrijven. Deze plugin komt met verschillende templates, de mogelijkheid om albums in te sluiten, groep inhoud, beoordelingen, live video's en reacties."
+
+#: includes/admin/welcome.php:307
+msgid "Smash Balloon Facebook Feeds"
+msgstr "Smash Balloon Facebook Feeds"
+
+#: includes/admin/welcome.php:299
+msgid "Smash Balloon Instagram Feeds Pro"
+msgstr "Smash balloon Instagram feeds Pro"
+
+#: includes/admin/welcome.php:292 includes/admin/welcome.php:300
+msgid "Easily display Instagram content on your WordPress site without writing any code. Comes with multiple templates, ability to show content from multiple accounts, hashtags, and more. Trusted by 1 million websites."
+msgstr "Toon eenvoudig Instagram inhoud op je WordPress site zonder code te schrijven. Wordt geleverd met meerdere templates, mogelijkheid om inhoud van meerdere accounts, hashtags en meer weer te geven. Vertrouwd door 1 miljoen sites."
+
+#: includes/admin/welcome.php:291
+msgid "Smash Balloon Instagram Feeds"
+msgstr "Smash Balloon Instagram Feeds"
+
+#: includes/admin/welcome.php:283
+msgid "Connect with your visitors after they leave your website with the leading web push notification software. Over 10,000+ businesses worldwide use PushEngage to send 15 billion notifications each month."
+msgstr "Maak verbinding met je bezoekers nadat ze je site hebben verlaten met de toonaangevende software voor berichtgeving. Meer dan 10.000+ bedrijven wereldwijd gebruiken PushEngage om elke maand 15 miljard meldingen te verzenden."
+
+#: includes/admin/welcome.php:282
+msgid "PushEngage"
+msgstr "PushEngage"
+
+#: includes/admin/welcome.php:274
+msgid "RafflePress Pro"
+msgstr "RafflePress Pro"
+
+#: includes/admin/welcome.php:267 includes/admin/welcome.php:275
+msgid "Turn your website visitors into brand ambassadors! Easily grow your email list, website traffic, and social media followers with the most powerful giveaways & contests plugin for WordPress."
+msgstr "Maak van je site bezoekers merk ambassadeurs! Vergroot eenvoudig je e-maillijst, siteverkeer en volgers op sociale media met de krachtigste plugin voor weggeef acties & wedstrijden voor WordPress."
+
+#: includes/admin/welcome.php:266
+msgid "RafflePress"
+msgstr "RafflePress"
+
+#: includes/admin/welcome.php:258
+msgid "SeedProd Pro"
+msgstr "SeedProd Pro"
+
+#: includes/admin/welcome.php:251 includes/admin/welcome.php:259
+msgid "The fastest drag & drop landing page builder for WordPress. Create custom landing pages without writing code, connect them with your CRM, collect subscribers, and grow your audience. Trusted by 1 million sites."
+msgstr "De snelste landingspagina bouwer met slepen & neerzetten voor WordPress. Creëer aangepaste landingspagina's zonder code te schrijven, verbind ze met je CRM, verzamel abonnees en vergroot je publiek. Vertrouwd door 1 miljoen sites."
+
+#: includes/admin/welcome.php:250
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#: includes/admin/welcome.php:242
+msgid "AIOSEO Pro"
+msgstr "AIOSEO Pro"
+
+#: includes/admin/welcome.php:235 includes/admin/welcome.php:243
+msgid "The original WordPress SEO plugin and toolkit that improves your website's search rankings. Comes with all the SEO features like Local SEO, WooCommerce SEO, sitemaps, SEO optimizer, schema, and more."
+msgstr "De originele WordPress SEO plugin en toolkit die de zoekresultaten van je site verbeteren. Wordt geleverd met alle SEO functies zoals lokale SEO, WooCommerce SEO, sitemaps, SEO optimalisatie, schema en meer."
+
+#: includes/admin/welcome.php:234
+msgid "AIOSEO"
+msgstr "AIOSEO"
+
+#: includes/admin/welcome.php:226
+msgid "WP Mail SMTP Pro"
+msgstr "WP Mail SMTP Pro"
+
+#: includes/admin/welcome.php:219 includes/admin/welcome.php:227
+msgid "Improve your WordPress email deliverability and make sure that your website emails reach user's inbox with the #1 SMTP plugin for WordPress. Over 3 million websites use it to fix WordPress email issues."
+msgstr "Verbeter de afleverbaarheid van je WordPress e-mail en zorg ervoor dat je site e-mails de inbox van de gebruiker bereiken met de #1 SMTP plugin voor WordPress. Meer dan 3 miljoen sites gebruiken het om e-mailproblemen met WordPress op te lossen."
+
+#: includes/admin/welcome.php:218
+msgid "WP Mail SMTP"
+msgstr "WP Mail SMTP"
+
+#: includes/admin/welcome.php:210
+msgid "MonsterInsights Pro"
+msgstr "MonsterInsights Pro"
+
+#: includes/admin/welcome.php:203 includes/admin/welcome.php:211
+msgid "The leading WordPress analytics plugin that shows you how people find and use your website, so you can make data driven decisions to grow your business. Properly set up Google Analytics without writing code."
+msgstr "De beste WordPress analystische plugin die toont hoe mensen je site vinden en hoe ze je site gebruiken, zodat je gegevens gedreven beslissingen kan maken om je bedrijf te laten groeien. Zet Google Analytics juist op zonder code te houden schrijven."
+
+#: includes/admin/welcome.php:202
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#: includes/admin/welcome.php:195
+msgid "Instantly get more subscribers, leads, and sales with the #1 conversion optimization toolkit. Create high converting popups, announcement bars, spin a wheel, and more with smart targeting and personalization."
+msgstr "Krijg direct meer abonnees, leads en verkopen met de #1 toolkit voor conversie optimalisatie. Maak pop-ups met hoge conversies, aankondiging balken, draai aan een wiel en meer met slimme targeting en personalisatie."
+
+#: includes/admin/welcome.php:194
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: includes/admin/settings.php:185
+msgid "Verify Key"
+msgstr "Verifieer de sleutel"
+
+#: includes/admin/settings.php:183
+msgid "Paste license key here"
+msgstr "Plak licentiesleutel hier"
+
+#: includes/admin/settings.php:182
+msgid "Already purchased? Simply enter your license key below to enable Envira Gallery PRO!"
+msgstr "Al aangeschaft? Voer gewoon je licentiesleutel hieronder in om Envira Gallery PRO in te schakelen!"
+
+#. Translators: %1$s - Opening span tag, do not translate. %2$s - Closing span
+#. tag, do not translate.
+#: includes/admin/settings.php:174
+msgid "As a valued Envira Gallery Lite user you receive %1$s 50%% off%2$s, automatically applied at checkout"
+msgstr "Als gewaardeerd Envira Gallery Lite gebruiker ontvang je %1$s 50%% korting%2$s, automatisch toegepast bij afrekenen"
+
+#. Translators: %1$s - Opening anchor tag, do not translate. %2$s - Closing
+#. anchor tag, do not translate.
+#: includes/admin/settings.php:164
+msgid "To unlock more features consider %1$supgrading to PRO%2$s."
+msgstr "Overweeg %1$supgrading naar PRO%2$s om meer functies te ontgrendelen."
+
+#: includes/admin/settings.php:158
+msgid "You're using Envira Gallery Lite - no license needed. Enjoy! 🙂"
+msgstr "Je gebruikt Envira Gallery Lite - geen licentie nodig. Veel plezier! 🙂"
+
+#: includes/admin/settings.php:155
+msgid " License Key"
+msgstr " Licentiesleutel"
+
+#: includes/admin/settings.php:150
+msgid "Your license key provides access to updates and add-ons."
+msgstr "Je licentiesleutel geeft je toegang tot updates en add-ons."
+
+#: includes/admin/settings.php:149
+msgid "License"
+msgstr "Licentie"
+
+#: includes/admin/settings.php:54 includes/admin/settings.php:55
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/admin/review.php:143
+msgid "~ Syed Balkhi, CEO of Envira Gallery"
+msgstr "~ Syed Balkhi, CEO van Envira Gallery"
+
+#: includes/admin/partials/notifications.php:66
+msgid "Dismiss all"
+msgstr "Alles negeren"
+
+#: includes/admin/partials/notifications.php:39
+msgid "Active Notifications"
+msgstr "Actieve meldingen"
+
+#: includes/admin/partials/notifications.php:36
+msgid "Dismissed Notifications"
+msgstr "Genegeerde meldingen"
+
+#. Translators: Placeholder for the number of dismissed notifications.
+#: includes/admin/partials/notifications.php:29
+msgid "Notifications (%s)"
+msgstr "Meldingen (%s)"
+
+#. Translators: Placeholder for the number of active notifications.
+#: includes/admin/partials/notifications.php:18
+msgid "New Notifications (%s)"
+msgstr "Nieuwe meldingen (%s)"
+
+#: includes/admin/partials/footer.php:66
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/admin/partials/footer.php:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/admin/partials/footer.php:50
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/admin/partials/footer.php:34
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/admin/partials/footer.php:25
+msgid "Free Plugins"
+msgstr "Gratis plugins"
+
+#: includes/admin/partials/footer.php:16
+msgid "Made with ♥ by the Envira Gallery Team"
+msgstr "Gemaakt met ♥ door het Envira Gallery team"
+
+#: includes/admin/partials/albums.php:56
+msgid "Already Purchased?"
+msgstr "Al gekocht?"
+
+#: includes/admin/partials/albums.php:53
+msgid "Upgrade to Envira Gallery Pro Now"
+msgstr "Upgrade nu naar Envira Gallery Pro"
+
+#. Translators: %1$s - Opening strong tag, do not translate. %2$s - Closing
+#. strong tag, do not translate. %3$s - Opening span tag, do not translate.
+#. %4$s - Closing strong tag, do not translate.
+#: includes/admin/partials/albums.php:42
+msgid "%1$sBonus%2$s: Envira Gallery Lite users get %3$s 50%% off%4$s regular price, automatically applied at checkout"
+msgstr "%1$sBonus%2$s: Envira Gallery Lite gebruikers verkrijgen %3$s 50%% korting%4$s op de normale prijs, automatisch toegepast bij afrekenen"
+
+#: includes/admin/partials/albums.php:16
+msgid "Once you upgrade to Envira Pro, all features of albums will be available to create beautiful albums in seconds."
+msgstr "Zodra je upgrade naar Envira Pro, zijn alle functies van albums beschikbaar om binnen enkele seconden prachtige albums te maken."
+
+#: includes/admin/partials/albums.php:13
+msgid "Create and Manage Albums is only available with Pro Features"
+msgstr "Albums maken en beheren is alleen beschikbaar met Pro functies"
+
+#: includes/admin/notifications.php:634
+msgid "Dismiss"
+msgstr "Negeren"
+
+#. Translators: Human-Readable time to display.
+#: includes/admin/notifications.php:279
+msgid "%1$s ago"
+msgstr "%1$s geleden"
+
+#: includes/admin/Envira_Lite_Support.php:237
+msgid "Toggle"
+msgstr "Toggle"
+
+#: includes/admin/Envira_Lite_Support.php:229
+msgid "Fix"
+msgstr "Opgelost"
+
+#: includes/admin/Envira_Lite_Support.php:49
+#: includes/admin/partials/footer.php:19
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: includes/admin/Envira_Lite_Support.php:48
+msgid "Support General"
+msgstr "Ondersteuning algemeen"
+
+#: includes/admin/common.php:491
+msgid "Unlock Gallery Features "
+msgstr "Galerij functies ontgrendelen "
+
+#: includes/admin/common.php:490
+msgid "Upgrade to Pro to get access to Albums, Protected Images,  Video Galleries, and more!"
+msgstr "Upgrade naar Pro om toegang te verkrijgen tot albums,  beveiligde afbeeldingen, videogalerijen en meer!"
+
+#: includes/admin/common.php:489
+msgid "Unlock All Features"
+msgstr "Ontgrendel alle functies"
+
+#: includes/admin/common.php:486
+msgid "Unfortunately there was a server connection error."
+msgstr "Helaas was er een server verbindingsfout."
+
+#: includes/admin/common.php:485
+msgid "Almost Done"
+msgstr "Bijna klaar"
+
+#: includes/admin/common.php:484
+msgid "OK"
+msgstr "OK"
+
+#: includes/admin/common.php:483
+msgid "Oops!"
+msgstr "Oops!"
+
+#: includes/admin/common.php:156 includes/admin/common.php:157
+msgid "Upgrade to Pro"
+msgstr "Upgrade naar Pro"
+
+#: includes/admin/albums.php:59 includes/admin/albums.php:60
+msgid "Albums"
+msgstr "Albums"
+
+#: includes/admin/ajax.php:1241 includes/admin/ajax.php:1300
+msgid "Envira Gallery Pro is installed but not activated."
+msgstr "Envira Gallery Pro is geïnstalleerd, maar niet geactiveerd."
+
+#: includes/admin/ajax.php:1209 includes/admin/ajax.php:1248
+msgid "There was an error connecting to the remote key API. Please try again later."
+msgstr "Er is een fout opgetreden bij het verbinden met de externe sleutel API. Probeer het later opnieuw."
+
+#: includes/admin/ajax.php:1202
+msgid "Please enter your license key to connect."
+msgstr "Voer je licentiesleutel in om verbinding te maken."
+
+#: includes/admin/ajax.php:639 includes/admin/ajax.php:1121
+#: includes/admin/ajax.php:1197
+msgid "You are not allowed to install plugins."
+msgstr "Je hebt geen toestemming om plugins te activeren."
+
+#: includes/global/shortcode.php:1116 includes/global/shortcode.php:1832
+msgid "Previous"
+msgstr "Vorige"
+
+#: includes/global/shortcode.php:1115 includes/global/shortcode.php:1836
+msgid "Next"
+msgstr "Volgende"
+
+#: includes/global/shortcode.php:1114 includes/global/shortcode.php:1846
+msgid "Close"
+msgstr "Sluit"
+
+#: includes/global/shortcode.php:1113
+msgid "The requested content cannot be loaded.<br/>Please try again later.</p>"
+msgstr "De gevraagde inhoud kan niet worden geladen.<br/>Probeer het later opnieuw.</p>"
+
+#: includes/global/posttype.php:71
+msgid "No galleries found in trash."
+msgstr "Geen galerijen gevonden in de prullenbak."
+
+#: includes/global/posttype.php:70
+msgid "No galleries found."
+msgstr "Geen galerijen gevonden."
+
+#: includes/global/posttype.php:69
+msgid "Search Galleries"
+msgstr "Doorzoek galerijen"
+
+#: includes/global/posttype.php:68
+msgid "View Gallery"
+msgstr "Bekijk galerij"
+
+#: includes/global/posttype.php:67
+msgid "New Gallery"
+msgstr "Nieuwe galerij"
+
+#: includes/global/posttype.php:66 assets/js/envira-gutenberg.js:404
+msgid "Edit Gallery"
+msgstr "Galerij bewerken"
+
+#: includes/global/posttype.php:65
+msgid "Add New Gallery"
+msgstr "Nieuwe galerij toevoegen"
+
+#: includes/global/posttype.php:64
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: includes/global/posttype.php:62
+msgid "Galleries"
+msgstr "Galerijen"
+
+#: includes/global/Installer_Skin.php:87
+msgid "There was an error installing the addon. Please try again."
+msgstr "Er is een fout opgetreden bij het installeren van de add-on. Probeer het opnieuw."
+
+#: includes/global/common.php:961 includes/global/common.php:973
+msgid "The dimensions of the original image could not be retrieved for cropping."
+msgstr "De afmetingen van de originele afbeelding kunnen niet worden opgehaald voor bijsnijden."
+
+#: includes/global/common.php:948 includes/global/common.php:953
+msgid "No file could be found for the image URL specified."
+msgstr "Er is geen bestand gevonden voor de opgegeven afbeeldings URL."
+
+#: includes/global/common.php:920
+msgid "No image URL specified for cropping."
+msgstr "Geen afbeeldings URL opgegeven voor bijsnijden."
+
+#: includes/global/common.php:817
+msgid "No image editor could be selected. Please verify with your webhost that you have either the GD or Imagick image library compiled with your PHP install on your server."
+msgstr "Er kon geen afbeeldingseditor worden geselecteerd. Controleer bij je webhost of je de GD of Imagick afbeeldingsbibliotheek hebt gecompileerd met je PHP installatie op je server."
+
+#: includes/global/common.php:736
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/global/common.php:713
+msgid "After Existing Images"
+msgstr "Na bestaande afbeeldingen"
+
+#: includes/global/common.php:709
+msgid "Before Existing Images"
+msgstr "Voor bestaande afbeeldingen"
+
+#: includes/global/common.php:659
+msgid "Image Files"
+msgstr "Afbeeldingsbestanden"
+
+#: includes/global/common.php:494 includes/global/common.php:517
+msgid "Bottom"
+msgstr "Bodem"
+
+#: includes/global/common.php:490 includes/global/common.php:513
+msgid "Top"
+msgstr "Top"
+
+#: includes/global/common.php:471
+msgid "Swing"
+msgstr "Schommel"
+
+#: includes/global/common.php:425
+msgid "Elastic"
+msgstr "Elastisch"
+
+#: includes/global/common.php:421
+msgid "Fade"
+msgstr "Vervagen"
+
+#: includes/global/common.php:417
+msgid "No Effect"
+msgstr "Geen effect"
+
+#: includes/global/common.php:375
+msgid "Over"
+msgstr "Over"
+
+#: includes/global/common.php:371 includes/global/common.php:398
+msgid "Outside"
+msgstr "Buiten"
+
+#: includes/global/common.php:367 includes/global/common.php:394
+msgid "Inside"
+msgstr "Binnen"
+
+#: includes/global/common.php:363
+msgid "Float (Wrapped)"
+msgstr "Float (verpakt)"
+
+#: includes/global/common.php:359
+msgid "Float"
+msgstr "Vlotter"
+
+#: includes/global/common.php:341
+msgid "Original Image"
+msgstr "Originele afbeelding"
+
+#: includes/global/common.php:276
+msgid "Legacy"
+msgstr "Legacy"
+
+#: includes/global/common.php:256
+msgid "Descending (Z-A)"
+msgstr "Aflopend (Z-A)"
+
+#: includes/global/common.php:252
+msgid "Ascending (A-Z)"
+msgstr "Oplopend (A-Z)"
+
+#: includes/global/common.php:229
+msgid "Alt"
+msgstr "Alt"
+
+#: includes/global/common.php:217
+msgid "Filename"
+msgstr "Bestandsnaam"
+
+#: includes/global/common.php:213
+msgid "Published Date"
+msgstr "Datum van het uitbrengen"
+
+#: includes/global/common.php:209 includes/global/common.php:335
+msgid "Random"
+msgstr "Willekeurig"
+
+#: includes/global/common.php:205
+msgid "No Sorting"
+msgstr "Geen sortering"
+
+#: includes/global/common.php:186
+msgid "Display below galleries"
+msgstr "Toon onderstaande galerijen"
+
+#: includes/global/common.php:182
+msgid "Display above galleries"
+msgstr "Weergeven boven galerijen"
+
+#: includes/global/common.php:178
+msgid "Do not display"
+msgstr "Geef niet weer"
+
+#: includes/global/common.php:159
+msgid "Normal"
+msgstr "Normaal"
+
+#: includes/global/common.php:139
+msgid "Base"
+msgstr "Baseren"
+
+#: includes/global/common.php:120
+msgid "Six Columns (6)"
+msgstr "Zes Kolommen (6)"
+
+#: includes/global/common.php:116
+msgid "Five Columns (5)"
+msgstr "Vijf kolommen (5)"
+
+#: includes/global/common.php:112
+msgid "Four Columns (4)"
+msgstr "Vier kolommen (4)"
+
+#: includes/global/common.php:108
+msgid "Three Columns (3)"
+msgstr "Drie kolommen (3)"
+
+#: includes/global/common.php:104
+msgid "Two Columns (2)"
+msgstr "Twee kolommen (2)"
+
+#: includes/global/common.php:100
+msgid "One Column (1)"
+msgstr "Een kolom (1)"
+
+#: includes/global/common.php:96
+msgid "Automatic"
+msgstr "Automatisch"
+
+#: includes/admin/welcome.php:489 includes/admin/welcome.php:490
+#: includes/admin/welcome.php:577
+msgid "Lite vs Pro"
+msgstr "Lite versus Pro"
+
+#: includes/admin/settings.php:49 includes/admin/welcome.php:466
+msgid "Envira Gallery "
+msgstr "Envira galerij "
+
+#: includes/admin/table.php:350 includes/admin/table.php:361
+msgid "— No Change —"
+msgstr "- Geen verandering -"
+
+#: includes/admin/table.php:293 includes/admin/table.php:348
+msgid "Number of Columns"
+msgstr "Aantal kolommen"
+
+#. translators: %s: image count
+#: includes/admin/table.php:220
+msgid "%d Image"
+msgid_plural "%d Images"
+msgstr[0] "%d Afbeelding"
+msgstr[1] "%d Afbeeldingen"
+
+#: includes/admin/table.php:171
+msgid "Date"
+msgstr "Datum"
+
+#: includes/admin/table.php:170
+msgid "Last Modified"
+msgstr "Laatst gewijzigd"
+
+#: includes/admin/table.php:169
+msgid "Posts"
+msgstr "Berichten"
+
+#: includes/admin/table.php:168
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/admin/review.php:147
+msgid "I already did"
+msgstr "Heb ik al gedaan"
+
+#: includes/admin/review.php:146
+msgid "Nope, maybe later"
+msgstr "Nee, misschien later"
+
+#: includes/admin/review.php:145
+msgid "Ok, you deserve it"
+msgstr "Oké, je verdient het"
+
+#: includes/admin/review.php:142
+msgid "Hey, I noticed you created a photo gallery with Envira - that’s awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "Ik heb gemerkt dat je een fotogalerij hebt gemaakt met Envira - dat is geweldig! Kun je me alsjeblieft een GROOT plezier doen en het een 5-sterren waardering geven op WordPress om ons te helpen het woord te verspreiden en onze motivatie een boost te geven?"
+
+#. translators: %s: url
+#: includes/admin/common.php:226
+msgid "Please rate <strong>Envira Gallery</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the Envira Gallery team!"
+msgstr "Waardeer <strong>Envira Gallery</strong><a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> op <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> om ons te helpen het woord te verspreiden. Bedankt van het Envira Gallery team!"
+
+#: includes/admin/posttype.php:129
+msgid "Envira gallery draft updated."
+msgstr "Envira-galerij concept geüpdatet."
+
+#. translators: %s: scheduled date
+#: includes/admin/posttype.php:128
+msgid "M j, Y @ G:i"
+msgstr "j M Y @ H:i"
+
+#. translators: %s: scheduled date
+#: includes/admin/posttype.php:128
+msgid "Envira gallery scheduled for: <strong>%1$s</strong>."
+msgstr "Envira-galerij gepland voor: <strong>%1$s</strong>."
+
+#: includes/admin/posttype.php:126
+msgid "Envira gallery submitted."
+msgstr "Envira galerij ingediend."
+
+#: includes/admin/posttype.php:125
+msgid "Envira gallery saved."
+msgstr "Envira galerij opgeslagen."
+
+#: includes/admin/posttype.php:124
+msgid "Envira gallery published."
+msgstr "Envira galerij gepubliceerd."
+
+#. translators: %s: revision version
+#: includes/admin/posttype.php:123
+msgid "Envira gallery restored to revision from %s."
+msgstr "Envira-galerij hersteld naar revisie van %s."
+
+#: includes/admin/posttype.php:120
+msgid "Envira gallery custom field deleted."
+msgstr "Aangepast veld Envira-galerij verwijderd."
+
+#: includes/admin/posttype.php:119
+msgid "Envira gallery custom field updated."
+msgstr "Aangepast veld voor Envira-galerij geüpdatet."
+
+#: includes/admin/posttype.php:118 includes/admin/posttype.php:121
+msgid "Envira gallery updated."
+msgstr "Envira galerij geüpdatet."
+
+#: includes/admin/partials/metabox-gallery-type.php:60
+#: includes/admin/partials/metabox-gallery-type.php:61
+msgid "Click Here to Upgrade"
+msgstr "Klik hier om te upgraden"
+
+#: includes/admin/partials/metabox-gallery-type.php:56
+msgid "Envira Pro allows you to build galleries from Instagram photos, images from your posts, and more."
+msgstr "Met Envira Pro kun je galerijen bouwen van Instagram-foto's, afbeeldingen van je berichten en meer."
+
+#: includes/admin/partials/footer.php:42
+#: includes/admin/partials/metabox-gallery-type.php:51
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/admin/partials/metabox-gallery-type.php:49
+msgid "Build Galleries from Instagram images."
+msgstr "Bouw galerijen van Instagram afbeeldingen."
+
+#: includes/admin/partials/metabox-gallery-type.php:46
+msgid "Create Dynamic Galleries with Envira"
+msgstr "Maak dynamische galerijen met Envira"
+
+#: includes/admin/partials/metabox-gallery-type.php:20
+#: includes/admin/partials/metabox-gallery-type.php:21
+msgid "External Gallery"
+msgstr "Externe galerij"
+
+#: includes/admin/partials/metabox-gallery-type.php:17
+msgid "Native Envira Gallery"
+msgstr "Native Envira galerij"
+
+#: includes/admin/partials/metabox-gallery-code.php:38
+#: includes/admin/partials/metabox-gallery-code.php:48
+msgid "Copy Template Tag to Clipboard"
+msgstr "Kopieer de templatetag naar het klembord"
+
+#: includes/admin/partials/metabox-gallery-code.php:35
+msgid "You can also place this gallery into your template files by using <strong>one</strong> the template tag(s) below:"
+msgstr "Je kan deze galerij ook in je templatebestanden plaatsen door <strong>one</strong> de onderstaande templatetag(s) te gebruiken:"
+
+#: includes/admin/partials/metabox-gallery-code.php:18
+#: includes/admin/partials/metabox-gallery-code.php:28
+#: includes/admin/partials/metabox-gallery-code.php:39
+#: includes/admin/partials/metabox-gallery-code.php:49
+#: includes/admin/table.php:232
+msgid "Copy to Clipboard"
+msgstr "Kopieer naar klembord"
+
+#: includes/admin/partials/metabox-gallery-code.php:17
+#: includes/admin/partials/metabox-gallery-code.php:27
+#: includes/admin/table.php:231
+msgid "Copy Shortcode to Clipboard"
+msgstr "Kopieer de shortcode naar het klembord"
+
+#: includes/admin/partials/metabox-gallery-code.php:14
+msgid "You can place this gallery anywhere into your posts, pages, custom post types or widgets by using one of the shortcode(s) below:"
+msgstr "Je kunt deze galerij overal in je berichten, pagina's, extra berichttypen of widgets plaatsen door een van de onderstaande shortcode(s) te gebruiken:"
+
+#: includes/admin/notice.php:173
+msgid "Dismiss this notice"
+msgstr "Negeer dit bericht"
+
+#: includes/admin/metaboxes.php:1711
+msgid "Modify Image"
+msgstr "Afbeelding aanpassen"
+
+#: includes/admin/metaboxes.php:1710
+msgid "Remove Image from Gallery?"
+msgstr "Afbeelding uit galerij verwijderen?"
+
+#: includes/admin/metaboxes.php:1228
+msgid "Pagination"
+msgstr "Paginering"
+
+#: includes/admin/metaboxes.php:1226
+msgid "Tags"
+msgstr "Tags"
+
+#: includes/admin/metaboxes.php:1225
+msgid "Social"
+msgstr "Sociaal"
+
+#: includes/admin/metaboxes.php:1224
+msgid "Videos"
+msgstr "Video's"
+
+#: includes/admin/metaboxes.php:1196
+msgid "Want to take your galleries further?"
+msgstr "Wil je je galerijen verder brengen?"
+
+#: includes/admin/metaboxes.php:1182
+msgid "Enables or disables RTL support in Envira for right-to-left languages."
+msgstr "Schakelt RTL ondersteuning in Envira voor talen van rechts naar links in of uit."
+
+#: includes/admin/metaboxes.php:1176
+msgid "Enable RTL Support?"
+msgstr "Schakel RTL ondersteuning in?"
+
+#: includes/admin/metaboxes.php:1171
+msgid "Adds custom CSS classes to this gallery. Enter one class per line."
+msgstr "Voegt aangepaste CSS-klassen toe aan deze galerij. Voer één klas per regel in."
+
+#: includes/admin/metaboxes.php:1170
+msgid "Enter custom gallery CSS classes here, one per line."
+msgstr "Voer hier aangepaste galerij CSS klassen in, één per regel."
+
+#: includes/admin/metaboxes.php:1161
+msgid "Custom Gallery Classes"
+msgstr "Aangepaste galerij klassen"
+
+#: includes/admin/metaboxes.php:1156
+msgid "<strong>Unique</strong> internal gallery slug for identification and advanced gallery queries."
+msgstr "<strong>Unique</strong> interne galerij slug voor identificatie en geavanceerde galerij queries."
+
+#: includes/admin/metaboxes.php:1152
+msgid "Gallery Slug"
+msgstr "Galerij-slug"
+
+#: includes/admin/metaboxes.php:1147
+msgid "Internal gallery title for identification in the admin."
+msgstr "Interne galerijtitel voor identificatie in beheer."
+
+#: includes/admin/metaboxes.php:1143
+msgid "Gallery Title"
+msgstr "Galerij Titel"
+
+#: includes/admin/metaboxes.php:1127
+msgid "The settings below adjust miscellaneous options for the Gallery."
+msgstr "De onderstaande instellingen passen diverse opties voor de galerij aan."
+
+#: includes/admin/metaboxes.php:1125
+msgid "Miscellaneous Settings"
+msgstr "Diverse instellingen"
+
+#: includes/admin/metaboxes.php:1090
+msgid "Want even more fine tuned control over your lightbox display?"
+msgstr "Wil je een nog fijnere controle over je lightbox weergave?"
+
+#: includes/admin/metaboxes.php:1076
+msgid "Sets the display of the lightbox image's caption."
+msgstr "Stelt de weergave van het bijschrift van de lightbox afbeelding in."
+
+#: includes/admin/metaboxes.php:1068
+msgid "Caption Position"
+msgstr "Positie bijschrift"
+
+#: includes/admin/metaboxes.php:1063
+msgid "Define the maximum image size for the Lightbox view. Default will display the original, full size image."
+msgstr "Definieer de maximale afbeeldingsgrootte voor de Lightbox weergave. Standaard wordt de originele afbeelding op volledige grootte weergegeven."
+
+#: includes/admin/metaboxes.php:1050
+msgid "Sets the theme for the gallery lightbox display."
+msgstr "Stelt het thema in voor de lightbox weergave van de galerij."
+
+#: includes/admin/metaboxes.php:1042
+msgid "Gallery Lightbox Theme"
+msgstr "Galerij lightbox thema"
+
+#: includes/admin/metaboxes.php:1030
+msgid "Enables or disables links only when the gallery lightbox is disabled."
+msgstr "Schakelt links alleen in of uit als de galerij-lightbox is uitgeschakeld."
+
+#: includes/admin/metaboxes.php:1024
+msgid "Enable Links?"
+msgstr "Links inschakelen?"
+
+#: includes/admin/metaboxes.php:1018
+msgid "Enables or disables the gallery lightbox."
+msgstr "Schakel de lightbox galerij in of uit."
+
+#: includes/admin/metaboxes.php:1012 assets/js/envira-gutenberg.js:184
+msgid "Enable Lightbox?"
+msgstr "Lightbox inschakelen?"
+
+#: includes/admin/metaboxes.php:995
+msgid "The settings below adjust the lightbox output."
+msgstr "De onderstaande instellingen passen de uitvoer van de lightbox aan."
+
+#: includes/admin/metaboxes.php:993
+msgid "Lightbox Settings"
+msgstr "Lightbox instellingen"
+
+#: includes/admin/metaboxes.php:975
+msgid "Click here to Upgrade Today"
+msgstr "Klik hier om vandaag te upgraden"
+
+#: includes/admin/metaboxes.php:945
+msgid "If disabled, images will be resized to maintain their aspect ratio."
+msgstr "Als deze optie is uitgeschakeld, wordt het formaat van afbeeldingen aangepast om hun aspectverhouding te behouden."
+
+#: includes/admin/metaboxes.php:944
+msgid "If enabled, forces images to exactly match the sizes defined above for Image Dimensions and Mobile Dimensions."
+msgstr "Indien ingeschakeld, worden afbeeldingen afgedwongen zodat ze exact overeenkomen met de hierboven gedefinieerde formaten voor Afbeeldingsafmetingen en Mobiele afmetingen."
+
+#: includes/admin/metaboxes.php:938
+msgid "Crop Images?"
+msgstr "Afbeeldingen bijsnijden?"
+
+#: includes/admin/metaboxes.php:933
+msgid "You should adjust these dimensions based on the number of columns in your gallery. This does not affect the full size lightbox images."
+msgstr "Je moet deze afmetingen aanpassen op basis van het aantal kolommen in je galerij. Dit heeft geen invloed op de lightbox afbeeldingen op volledige grootte."
+
+#: includes/admin/metaboxes.php:929
+msgid "Image Dimensions"
+msgstr "Afbeelding afmetingen"
+
+#: includes/admin/metaboxes.php:924
+msgid "Define the maximum image size for the Gallery view. Default will use the below Image Dimensions; Random will allow you to choose one or more WordPress image sizes, which will be used for the gallery output."
+msgstr "Definieer de maximale afbeeldingsgrootte voor de galerijweergave. Standaard gebruikt de onderstaande afbeeldingafmetingen; Met Random kan je een of meer WordPress afbeeldingsformaten kiezen, die worden gebruikt voor de galerij uitvoer."
+
+#: includes/admin/metaboxes.php:912 includes/admin/metaboxes.php:1055
+msgid "Image Size"
+msgstr "Afbeeldingsgrootte"
+
+#: includes/admin/metaboxes.php:896
+msgid "Sets the space below each item in the gallery."
+msgstr "Stel de ruimte onder ieder item in de galerij in."
+
+#: includes/admin/metaboxes.php:892
+msgid "Margin Below Each Image"
+msgstr "Ruimte onder iedere afbeelding"
+
+#: includes/admin/metaboxes.php:887
+msgid "Sets the space between the columns (defaults to 10)."
+msgstr "Stelt de ruimte tussen kolommen in (standaard op 10)."
+
+#: includes/admin/metaboxes.php:883
+msgid "Column Gutter Width"
+msgstr "Breedte van de tussenruimte van de kolom"
+
+#: includes/admin/metaboxes.php:878
+msgid "Sets the theme for the gallery display."
+msgstr "Stelt het thema in voor de galerij."
+
+#: includes/admin/metaboxes.php:870 includes/admin/table.php:302
+#: includes/admin/table.php:359
+msgid "Gallery Theme"
+msgstr "Galerij thema"
+
+#: includes/admin/metaboxes.php:857
+msgid "Sets the space between the images (defaults to 1)"
+msgstr "Stelt de ruimte tussen de afbeeldingen in (standaard ingesteld op 1)"
+
+#: includes/admin/metaboxes.php:853
+msgid "Automatic Layout: Margins"
+msgstr "Automatische lay-out: Marges"
+
+#: includes/admin/metaboxes.php:848
+msgid "Determines how high (in pixels) each row will be. 150px is default. "
+msgstr "Bepaalt hoe hoog (in pixels) elke rij zal zijn. 150px is standaard."
+
+#: includes/admin/metaboxes.php:847 includes/admin/metaboxes.php:856
+#: includes/admin/metaboxes.php:886 includes/admin/metaboxes.php:895
+#: includes/admin/metaboxes.php:932
+msgid "px"
+msgstr "px"
+
+#: includes/admin/metaboxes.php:844
+msgid "Automatic Layout: Row Height"
+msgstr "Automatische lay-out: Rijhoogte"
+
+#: includes/admin/metaboxes.php:833
+msgid "Set a delay when new images are loaded"
+msgstr "Stel een vertraging in wanneer nieuwe afbeeldingen worden geladen"
+
+#: includes/admin/metaboxes.php:832
+msgid "milliseconds"
+msgstr "milliseconden"
+
+#: includes/admin/metaboxes.php:829
+msgid "Lazy Loading Delay"
+msgstr "Lazy-load vertraging"
+
+#: includes/admin/metaboxes.php:805 includes/admin/metaboxes.php:820
+msgid "Enables or disables lazy loading, which helps with performance by loading thumbnails only when they are visible. See our documentation for more information."
+msgstr "Schakelt lazy-loading in of uit, wat de prestaties ten goede komt doordat thumbnails alleen worden geladen als ze zichtbaar zijn. Zie onze documentatie voor meer informatie."
+
+#: includes/admin/metaboxes.php:799 includes/admin/metaboxes.php:814
+msgid "Enable Lazy Loading?"
+msgstr "Lazy-loading inschakelen?"
+
+#: includes/admin/metaboxes.php:788
+msgid "Determines the number of columns in the gallery. Automatic will attempt to fill each row as much as possible before moving on to the next row."
+msgstr "Bepaalt het aantal kolommen in de galerij. Automatisch zal proberen elke rij zoveel mogelijk te vullen voordat hij naar de volgende rij gaat."
+
+#: includes/admin/metaboxes.php:780
+msgid "Number of Gallery Columns"
+msgstr "Aantal galerij-kolommen"
+
+#: includes/admin/metaboxes.php:765
+msgid "The settings below adjust the basic configuration options for the gallery."
+msgstr "De onderstaande instellingen passen de basisconfiguratie opties voor de galerij aan."
+
+#: includes/admin/metaboxes.php:763
+msgid "Gallery Settings"
+msgstr "Galerij instellingen"
+
+#: includes/admin/metaboxes.php:744 includes/admin/metaboxes.php:1107
+#: includes/admin/metaboxes.php:1207
+msgid "Click here to Upgrade"
+msgstr "Klik hier om te upgraden"
+
+#: includes/admin/metaboxes.php:731
+msgid "Want to make your gallery workflow and presentation even better?"
+msgstr "Wil je de workflow en presentatie van je galerij nog beter maken?"
+
+#: includes/admin/metaboxes.php:710 includes/admin/metaboxes.php:772
+#: includes/admin/metaboxes.php:1003 includes/admin/metaboxes.php:1135
+msgid "Watch a Video"
+msgstr "Een video kijken"
+
+#: includes/admin/metaboxes.php:708
+msgid "or"
+msgstr "of"
+
+#: includes/admin/metaboxes.php:706 includes/admin/metaboxes.php:768
+#: includes/admin/metaboxes.php:999 includes/admin/metaboxes.php:1131
+msgid "Read the Documentation"
+msgstr "Lees de documentatie"
+
+#: includes/admin/metaboxes.php:704 includes/admin/metaboxes.php:766
+#: includes/admin/metaboxes.php:997 includes/admin/metaboxes.php:1129
+msgid "Need some help?"
+msgstr "Hulp nodig?"
+
+#: includes/admin/metaboxes.php:702
+msgid "Currently in your Gallery"
+msgstr "Momenteel in je galerij"
+
+#: includes/admin/metaboxes.php:611
+msgid "Misc"
+msgstr "Diverse"
+
+#: includes/admin/metaboxes.php:605 includes/admin/metaboxes.php:1223
+msgid "Mobile"
+msgstr "Mobiel"
+
+#: includes/admin/metaboxes.php:604 assets/js/envira-gutenberg.js:184
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/admin/metaboxes.php:603
+msgid "Config"
+msgstr "Configureren"
+
+#: includes/admin/metaboxes.php:602 includes/global/posttype.php:63
+#: assets/js/envira-gutenberg.js:184
+msgid "Gallery"
+msgstr "Galerij"
+
+#: includes/admin/metaboxes.php:586 includes/global/common.php:300
+msgid "Default"
+msgstr "Standaard"
+
+#: includes/admin/metaboxes.php:434
+msgid "Envira Gallery Code"
+msgstr "Envira galerijcode"
+
+#: includes/admin/metaboxes.php:430
+msgid "Envira Gallery Settings"
+msgstr "Envira galerij instellingen"
+
+#: includes/admin/metaboxes.php:316
+msgid "Select Files from Your Computer"
+msgstr "Selecteer Bestanden op je computer"
+
+#: includes/admin/metaboxes.php:314
+msgid "Saved!"
+msgstr "Opgeslagen!"
+
+#: includes/admin/metaboxes.php:313
+msgid "Saving..."
+msgstr "Opslaan..."
+
+#: includes/admin/metaboxes.php:309
+msgid "Are you sure you want to remove these images from the gallery?"
+msgstr "Weet je zeker dat je deze afbeeldingen uit de galerij wil verwijderen?"
+
+#: includes/admin/metaboxes.php:308
+msgid "Are you sure you want to remove this image from the gallery?"
+msgstr "Weet je zeker dat je deze afbeelding uit de galerij wil verwijderen?"
+
+#: includes/admin/metaboxes.php:305
+msgid "Move Media to Selected Gallery"
+msgstr "Verplaats media naar geselecteerde galerij"
+
+#: includes/admin/metaboxes.php:304
+msgid "Move Media to Gallery"
+msgstr "Verplaats media naar galerij"
+
+#: includes/admin/metaboxes.php:297
+msgid "You must select a file to import before continuing."
+msgstr "Je moet een bestand selecteren om te importeren voordat je verder kan gaan."
+
+#: includes/admin/metaboxes.php:189
+msgid "Adding items to gallery."
+msgstr "Items toevoegen aan galerij."
+
+#: includes/admin/metaboxes.php:183
+msgid "All images uploaded."
+msgstr "Alle afbeeldingen geüpload."
+
+#: includes/admin/metaboxes.php:179
+msgid "of"
+msgstr "of"
+
+#: includes/admin/metaboxes.php:177
+msgid "Uploading Image"
+msgstr "Afbeelding uploaden"
+
+#: includes/admin/metaboxes.php:169
+msgid "Select Files from Other Sources"
+msgstr "Selecteer bestanden uit andere bronnen"
+
+#: includes/admin/metaboxes.php:168
+msgid "Click Here to Insert from Other Image Sources"
+msgstr "Klik hier om in te voegen vanuit andere afbeeldingsbronnen"
+
+#: includes/admin/metaboxes.php:144 includes/admin/metaboxes.php:299
+msgid "Inserting..."
+msgstr "Toevoegen..."
+
+#: includes/admin/metaboxes.php:143
+msgid "Insert into Gallery"
+msgstr "Invoegen in galerij"
+
+#: includes/admin/metaboxes.php:109
+msgid "The GD or Imagick libraries are not installed on your server. Envira Gallery requires at least one (preferably Imagick) in order to crop images and may not work properly without it. Please contact your webhost and ask them to compile GD or Imagick for your PHP install."
+msgstr "De GD of Imagick bibliotheken zijn niet op je server geïnstalleerd. Envira Gallery heeft er ten minste één nodig (bij voorkeur Imagick) om afbeeldingen bij te snijden en werkt mogelijk niet goed zonder. Neem contact op met je webhost en vraag hen om GD of Imagick te compileren voor je PHP-installatie."
+
+#: includes/admin/media-view.php:462
+msgid "Once done, click the Move button, and the selected images will be moved to the chosen Gallery."
+msgstr "Als je klaar bent, klik je op de knop Verplaatsen en de geselecteerde afbeeldingen worden naar de gekozen galerij verplaatst."
+
+#: includes/admin/media-view.php:459
+msgid "Select the Gallery to move the selected images to by clicking on one of the boxes to the left."
+msgstr "Selecteer de galerij waar je de geselecteerde afbeeldingen naartoe wil verplaatsen door op een van de boxen aan de linkerkant te klikken."
+
+#: includes/admin/media-view.php:417
+msgid "Save Metadata to Items"
+msgstr "Bewaar metagegevens in items"
+
+#: includes/admin/media-view.php:373
+msgid "Captions can take any type of HTML, and are displayed when an image is clicked."
+msgstr "Bijschriften kunnen elk type HTML bevatten en worden weergegeven wanneer op een afbeelding wordt geklikt."
+
+#: includes/admin/media-view.php:355 includes/global/common.php:225
+#: assets/js/envira-gutenberg.js:184
+msgid "Caption"
+msgstr "Bijschrift"
+
+#: includes/admin/media-view.php:330
+msgid "Bulk Edit"
+msgstr "Bulk bewerking"
+
+#: includes/admin/media-view.php:315 includes/admin/media-view.php:424
+msgid "Saved."
+msgstr "Opgeslagen."
+
+#: includes/admin/media-view.php:308 includes/admin/media-view.php:309
+#: includes/admin/media-view.php:418
+msgid "Save Metadata"
+msgstr "Metadata opslaan"
+
+#: includes/admin/media-view.php:297 includes/admin/media-view.php:406
+msgid "Opens your image links in a new browser window / tab."
+msgstr "Opent je afbeelding links in een nieuw browser venster/tab."
+
+#: includes/admin/media-view.php:294 includes/admin/media-view.php:403
+msgid "Open URL in New Window?"
+msgstr "URL openen in nieuw venster?"
+
+#: includes/admin/media-view.php:288 includes/admin/media-view.php:397
+msgid "Enter a hyperlink if you wish to link this image to somewhere other than its full size image."
+msgstr "Voer een hyperlink in als je deze afbeelding naar een andere dan de volledige afbeelding wil linken."
+
+#: includes/admin/media-view.php:284 includes/admin/media-view.php:393
+msgid "Attachment Page"
+msgstr "Bijlage pagina"
+
+#: includes/admin/media-view.php:283 includes/admin/media-view.php:392
+msgid "Media File"
+msgstr "Media bestand"
+
+#: includes/admin/media-view.php:279 includes/admin/media-view.php:388
+#: includes/global/common.php:233
+msgid "URL"
+msgstr "URL"
+
+#: includes/admin/media-view.php:273 includes/admin/media-view.php:382
+msgid "Very important for SEO, the Alt Text describes the image."
+msgstr "Heel belangrijk voor SEO, de alt-tekst beschrijft de afbeelding."
+
+#: includes/admin/media-view.php:270 includes/admin/media-view.php:379
+msgid "Alt Text"
+msgstr "Alt-tekst"
+
+#: includes/admin/media-view.php:263 includes/admin/media-view.php:349
+msgid "Image titles can take any type of HTML. You can adjust the position of the titles in the main Lightbox settings."
+msgstr "Afbeeldingstitels kunnen elk type HTML bevatten. Je kan de positie van de titels aanpassen in de hoofd Lightbox instellingen."
+
+#: includes/admin/media-view.php:260 includes/admin/media-view.php:346
+#: includes/admin/table.php:167 includes/global/common.php:221
+#: assets/js/envira-gutenberg.js:184
+msgid "Title"
+msgstr "Titel"
+
+#: includes/admin/media-view.php:240
+msgid "Edit Metadata"
+msgstr "Metadata aanpassen"
+
+#: includes/admin/media-view.php:237
+msgid "Edit next media item"
+msgstr "Bewerk het volgende media-item"
+
+#: includes/admin/media-view.php:236
+msgid "Edit previous media item"
+msgstr "Bewerk vorig media item"
+
+#: includes/admin/media-view.php:202
+msgid "Prepends each inserted Gallery with the Gallery Title."
+msgstr "Voegt voor elke ingevoegde galerij de galerij titel toe."
+
+#. translators: %s: heading size integer
+#: includes/admin/media-view.php:195
+msgid "Yes, as Heading H%s"
+msgstr "Ja, als rubriek H %s"
+
+#: includes/admin/media-view.php:190 includes/global/common.php:732
+msgid "No"
+msgstr "Nee"
+
+#: includes/admin/media-view.php:188
+msgid "Display Title"
+msgstr "Titel weergeven"
+
+#: includes/admin/media-view.php:184
+msgid "Insert Options"
+msgstr "Opties invoegen"
+
+#: includes/admin/media-view.php:180
+msgid "insert your gallery into the editor, click on the \"Insert Gallery\" button below."
+msgstr "voeg je galerij in de editor in, klik op de knop \"Galerij invoegen\" hieronder."
+
+#: includes/admin/media-view.php:178
+msgid "Inserting Your Gallery"
+msgstr "Voeg je galerij toe"
+
+#: includes/admin/media-view.php:176
+msgid "To choose your gallery, simply click on one of the boxes to the left. Ctrl / cmd and click to select multiple Galleries.  The \"Insert Gallery\" button will be activated once you have selected a gallery."
+msgstr "Om je galerij te kiezen, klik je eenvoudig op een van de boxen aan de linkerkant. Ctrl/cmd en klik om meerdere galerijen te selecteren. De \"Gallery invoegen\" knop wordt geactiveerd zodra je een galerij hebt geselecteerd."
+
+#: includes/admin/media-view.php:174
+msgid "Choosing Your Gallery"
+msgstr "Kies je galerij"
+
+#: includes/admin/media-view.php:173 includes/admin/media-view.php:457
+msgid "Helpful Tips"
+msgstr "Handige tips"
+
+#: includes/admin/media-view.php:120 includes/admin/media-view.php:121
+#: includes/admin/media-view.php:480 includes/admin/media-view.php:481
+msgid "Search"
+msgstr "Zoeken"
+
+#: includes/admin/editor.php:116 includes/admin/editor.php:118
+msgid "Add Gallery"
+msgstr "Nieuwe galerij"
+
+#: includes/admin/editor.php:99 includes/admin/editor.php:100
+#: includes/admin/editor.php:110 includes/admin/editor.php:111
+#: includes/admin/metaboxes.php:282 includes/admin/metaboxes.php:283
+#: includes/admin/table.php:141 includes/admin/table.php:142
+msgid "Insert"
+msgstr "Invoegen"
+
+#: includes/admin/common.php:395
+msgid "Your existing in-page Galleries can now be found by clicking on Envira Gallery in the WordPress Admin menu."
+msgstr "Je bestaande in-page galerijen zijn nu te vinden door op Envira galerij te klikken in het WordPress beheermenu."
+
+#: includes/admin/common.php:395 includes/admin/metaboxes.php:426
+#: includes/admin/partials/header.php:35 includes/global/posttype.php:73
+#: assets/js/envira-gutenberg.js:151
+msgid "Envira Gallery"
+msgstr "Envira galerij"
+
+#: includes/admin/ajax.php:1022
+msgid "No images were selected to be moved between Galleries."
+msgstr "Er zijn geen afbeeldingen geselecteerd om tussen galerijen te worden verplaatst."
+
+#: includes/admin/ajax.php:1016 includes/admin/ajax.php:1019
+msgid "The From Gallery ID has not been specified."
+msgstr "De From Gallery ID is niet opgegeven."
+
+#: includes/admin/addons.php:600
+msgid "Inactive"
+msgstr "Inactief"
+
+#: includes/admin/addons.php:584
+msgid "Active"
+msgstr "Actief"
+
+#: includes/admin/addons.php:566
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: includes/admin/addons.php:566 includes/admin/addons.php:584
+#: includes/admin/addons.php:600
+msgid "Status:"
+msgstr "Status:"
+
+#: includes/admin/addons.php:551
+msgid "Upgrade Now"
+msgstr "Nu upgraden"
+
+#. translators: %s: url
+#: includes/admin/addons.php:306
+msgid "<strong>Want even more addons?</strong> <a href=\"%s\">Upgrade your Envira Gallery account</a> and unlock the following addons."
+msgstr "<strong>Wil je nog meer add-ons?</strong><a href=\"%s\">Upgrade je Envira Gallery account</a> en ontgrendel de volgende add-ons."
+
+#: includes/admin/addons.php:304
+msgid "Unlock More Addons"
+msgstr "Ontgrendel meer add-ons"
+
+#: includes/admin/addons.php:280
+msgid "Available Addons"
+msgstr "Beschikbare add-ons"
+
+#: includes/admin/addons.php:257
+msgid "Refresh Addons"
+msgstr "Vernieuw add-ons"
+
+#: includes/admin/addons.php:253
+msgid "There was an issue retrieving the addons for this site. Please click on the button below the refresh the addons data."
+msgstr "Er is een probleem opgetreden bij het ophalen van de add-ons voor deze site. Klik op de onderstaande knop om de gegevens van de add-ons te vernieuwen."
+
+#: includes/admin/addons.php:237
+msgid "In order to get access to Addons, you need to resolve your license key errors."
+msgstr "Om toegang te krijgen tot add-ons, moet je je licentiesleutel fouten oplossen."
+
+#: includes/admin/addons.php:212
+msgid "Sort Descending (Z-A)"
+msgstr "Aflopend sorteren (Z-A)"
+
+#: includes/admin/addons.php:211
+msgid "Sort Ascending (A-Z)"
+msgstr "Oplopend sorteren (A-Z)"
+
+#: includes/admin/addons.php:210
+msgid "Most Popular"
+msgstr "Meest populair"
+
+#: includes/admin/addons.php:208
+msgid "Search Envira Addons"
+msgstr "Zoek Envira add-ons"
+
+#: includes/admin/addons.php:186 includes/admin/welcome.php:130
+msgid "Proceed"
+msgstr "Doorgaan"
+
+#: includes/admin/addons.php:185 includes/admin/welcome.php:129
+msgid "Installing..."
+msgstr "Installeren..."
+
+#: includes/admin/addons.php:183 includes/admin/addons.php:570
+#: includes/admin/welcome.php:127
+msgid "Install"
+msgstr "Installeren"
+
+#: includes/admin/addons.php:182 includes/admin/welcome.php:126
+msgid "Status: Inactive"
+msgstr "Status: Inactief"
+
+#: includes/admin/addons.php:181 includes/admin/welcome.php:125
+msgid "Deactivating..."
+msgstr "Aan het deactiveren..."
+
+#: includes/admin/addons.php:179 includes/admin/addons.php:588
+#: includes/admin/welcome.php:123
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: includes/admin/addons.php:177 includes/admin/welcome.php:121
+msgid "Activating..."
+msgstr "Activeren..."
+
+#: includes/admin/addons.php:175 includes/admin/addons.php:604
+#: includes/admin/common.php:487 includes/admin/welcome.php:119
+msgid "Activate"
+msgstr "Activeren"
+
+#: includes/admin/addons.php:174 includes/admin/welcome.php:118
+msgid "Status: Active"
+msgstr "Status: Actief"
+
+#: includes/admin/addons.php:97 includes/admin/addons.php:491
+msgid "Addons"
+msgstr "Add-ons"
+
+#: includes/admin/addons.php:96 includes/admin/addons.php:205
+msgid "Envira Gallery Addons"
+msgstr "Envira Gallery add-ons"
+
+#. translators: %s: url
+#: envira-gallery-lite.php:576
+msgid "Sorry, but your version of WordPress does not meet Envira Gallery's required version of <strong>5.0</strong> to run properly. The plugin has been deactivated. <a href=\"%s\">Click here to return to the Dashboard</a>."
+msgstr "Je versie van WordPress voldoet niet aan de vereiste versie <strong>5.0</strong> van Envira Gallery om goed te kunnen werken. De plugin is gedeactiveerd. <a href=\"%s\">Klik hier om terug te keren naar het Dashboard</a>."
+
+#. Author of the plugin
+#: envira-gallery-lite.php
+msgid "Envira Gallery Team"
+msgstr "Envira Gallery Team"
+
+#. Description of the plugin
+#: envira-gallery-lite.php
+msgid "Envira Gallery is the best responsive WordPress gallery plugin. This is the Lite version."
+msgstr "Envira Gallery is de beste responsive WordPress galerij plugin. Dit is de lite versie."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: envira-gallery-lite.php
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Plugin Name of the plugin
+#: envira-gallery-lite.php
+msgid "Envira Gallery Lite"
+msgstr "Envira Gallery Lite"
